@@ -1,0 +1,212 @@
+[
+    {
+      "": 0,
+      "Segment_Id": 1,
+      "Segment_Name": "TELECOM",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-04-20 00:00:00.000",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 1,
+      "Segment_Id": 2,
+      "Segment_Name": "MARKETING",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-04-20 00:00:00.000",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 2,
+      "Segment_Id": 4,
+      "Segment_Name": "BANKING",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-04-20 00:00:00.000",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 3,
+      "Segment_Id": 5,
+      "Segment_Name": "LOGISTICS",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-04-20 00:00:00.000",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 4,
+      "Segment_Id": 6,
+      "Segment_Name": "AGRO",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.993",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 5,
+      "Segment_Id": 7,
+      "Segment_Name": "BFSI",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.993",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 6,
+      "Segment_Id": 8,
+      "Segment_Name": "CONSUMER SERVICES",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.993",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 7,
+      "Segment_Id": 9,
+      "Segment_Name": "CONSUMER DURABLES",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.993",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 8,
+      "Segment_Id": 10,
+      "Segment_Name": "EMPI",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.993",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 9,
+      "Segment_Id": 11,
+      "Segment_Name": "FMCD",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 10,
+      "Segment_Id": 12,
+      "Segment_Name": "FMCG",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 11,
+      "Segment_Id": 13,
+      "Segment_Name": "HEALTHCARE & PHARMA",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 12,
+      "Segment_Id": 14,
+      "Segment_Name": "IT",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 13,
+      "Segment_Id": 15,
+      "Segment_Name": "MEDIA",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 14,
+      "Segment_Id": 16,
+      "Segment_Name": "MEDIA & ENTERTAINMENT",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 15,
+      "Segment_Id": 17,
+      "Segment_Name": "RETAIL",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 16,
+      "Segment_Id": 18,
+      "Segment_Name": "TECHNOLOGY / OA",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 17,
+      "Segment_Id": 19,
+      "Segment_Name": "TRAVEL FOOD & HOSPITALITY",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2016-05-11 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 18,
+      "Segment_Id": 22,
+      "Segment_Name": "IT/ITES/EDUCATION",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2018-01-16 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 19,
+      "Segment_Id": 23,
+      "Segment_Name": "FMCD/FMCG",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2018-01-16 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    },
+    {
+      "": 20,
+      "Segment_Id": 24,
+      "Segment_Name": "HHO",
+      "IsActive": "True",
+      "CreatedBy": 4,
+      "CreatedOn": "2018-01-16 18:07:59.997",
+      "ModifedBy": "",
+      "ModifiedOn": ""
+    }
+  ]
