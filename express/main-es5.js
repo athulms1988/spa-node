@@ -2397,7 +2397,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "h4", 15);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "2 Million");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "40 Million");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
