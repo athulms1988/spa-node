@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "TableName": "tbl_HArrear",
+        "RowCount": 1467873,
+        "ColumnCount": 468
+      },
+      {
+        "TableName": "tbl_HPayroll",
+        "RowCount": 9572134,
+        "ColumnCount": 512
+      },
+      {
+        "TableName": "tbl_FPayroll",
+        "RowCount": 401750,
+        "ColumnCount": 504
+      },
+      {
+        "TableName": "GstInvoice",
+        "RowCount": 222707,
+        "ColumnCount": 115
+      },
+      {
+        "TableName": "tbl_Invoice_Collection",
+        "RowCount": 172281,
+        "ColumnCount": 17
+      }
+    ]
+  }

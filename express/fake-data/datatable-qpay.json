@@ -1,0 +1,5324 @@
+{
+    "data": [
+      {
+        "TableName": "tbl_Pay_Frequency_Detail_1Audit",
+        "RowCount": 190425437,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "TBL_PAYDETAILS",
+        "RowCount": 147233974,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_PaySlip",
+        "RowCount": 139047552,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_PaySlip3",
+        "RowCount": 92732668,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Employee_Salary_Information_Detail",
+        "RowCount": 57856830,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Employee_Audit",
+        "RowCount": 41844032,
+        "ColumnCount": 85
+      },
+      {
+        "TableName": "tbl_ITTds",
+        "RowCount": 37776905,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tbl_Increment_Detail",
+        "RowCount": 31564865,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "Radar_Leave_Master_Audit",
+        "RowCount": 21672592,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Increment_Arrear_Transaction",
+        "RowCount": 19004586,
+        "ColumnCount": 27
+      },
+      {
+        "TableName": "TB_OFFER_PAY_STRUCTURE",
+        "RowCount": 14845358,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Employee_Salary_Information_Detail_Audit",
+        "RowCount": 13432246,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Attendance_Detail",
+        "RowCount": 11350002,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "TBL_PAYDETAILS_Histroy",
+        "RowCount": 10515537,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_HTds",
+        "RowCount": 9707081,
+        "ColumnCount": 959
+      },
+      {
+        "TableName": "TBL_EMPLOYEE_ADHOC",
+        "RowCount": 9634635,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_HPayroll",
+        "RowCount": 9572134,
+        "ColumnCount": 512
+      },
+      {
+        "TableName": "GstInvoice_Audit",
+        "RowCount": 8838143,
+        "ColumnCount": 138
+      },
+      {
+        "TableName": "Tbl_Bank_Invoice",
+        "RowCount": 8650985,
+        "ColumnCount": 99
+      },
+      {
+        "TableName": "tbl_Pay_Transaction_Detail",
+        "RowCount": 8544385,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_LOP_Restoration_Arrear",
+        "RowCount": 8382187,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "TBL_EMPLOYEE_ATTENDANCE_Audit",
+        "RowCount": 7297280,
+        "ColumnCount": 44
+      },
+      {
+        "TableName": "tbl_One_Time_Replacement_Detail",
+        "RowCount": 7116103,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Tax_Remittance_Staging",
+        "RowCount": 6891621,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "tbl_Remittance",
+        "RowCount": 6436362,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Other_Income_Detail",
+        "RowCount": 6383058,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Other_Income",
+        "RowCount": 6383054,
+        "ColumnCount": 49
+      },
+      {
+        "TableName": "GstInvoiceEmployee",
+        "RowCount": 5545201,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Employee_Employment_Detail_Audit",
+        "RowCount": 5161441,
+        "ColumnCount": 40
+      },
+      {
+        "TableName": "TBL_EMPLOYEE_ATTENDANCE",
+        "RowCount": 4701321,
+        "ColumnCount": 48
+      },
+      {
+        "TableName": "tbl_Payroll_Split",
+        "RowCount": 3733399,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tbl_Tax_Remittance_Staging_30Jan2020",
+        "RowCount": 3641902,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "tbl_Sap_Accounting_Register_Invoice",
+        "RowCount": 3567598,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "tbl_Employee_Salary_Information",
+        "RowCount": 3103273,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_radar_attendance_GTS0001_Audit",
+        "RowCount": 2539900,
+        "ColumnCount": 58
+      },
+      {
+        "TableName": "Tbl_API_Support",
+        "RowCount": 2433959,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Employee_Bank_Detail_Audit",
+        "RowCount": 2291161,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "Loan_Avail_Data",
+        "RowCount": 2227048,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_Tax_Remittance_Detail",
+        "RowCount": 2149692,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "Tbl_Bank_Non_Invoice",
+        "RowCount": 1770399,
+        "ColumnCount": 68
+      },
+      {
+        "TableName": "tbl_Increment",
+        "RowCount": 1749439,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tbl_One_Time_Replacement",
+        "RowCount": 1660247,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Tbl_One_Time_Input_Audit",
+        "RowCount": 1643873,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "Tbl_Transfer_Employee_Pay_Structure",
+        "RowCount": 1632638,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_HArrear",
+        "RowCount": 1467873,
+        "ColumnCount": 468
+      },
+      {
+        "TableName": "tbl_Leave_Taken_Detail",
+        "RowCount": 1462283,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Employee",
+        "RowCount": 1356909,
+        "ColumnCount": 81
+      },
+      {
+        "TableName": "tbl_Employee_Employment_Detail",
+        "RowCount": 1356900,
+        "ColumnCount": 36
+      },
+      {
+        "TableName": "tbl_Employee_Contact_Detail",
+        "RowCount": 1356900,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Employee_Bank_Detail",
+        "RowCount": 1356900,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Employee_Personal_Detail",
+        "RowCount": 1356900,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Employee_Information",
+        "RowCount": 1356900,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Employee_sar",
+        "RowCount": 1346153,
+        "ColumnCount": 81
+      },
+      {
+        "TableName": "tbl_Employee_contract",
+        "RowCount": 1346153,
+        "ColumnCount": 81
+      },
+      {
+        "TableName": "tbl_RemittanceOtherIncome",
+        "RowCount": 1215532,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_employee_31AUG2019",
+        "RowCount": 1149904,
+        "ColumnCount": 78
+      },
+      {
+        "TableName": "tbl_company_26AUG2019",
+        "RowCount": 1141824,
+        "ColumnCount": 78
+      },
+      {
+        "TableName": "Tbl_One_Time_Input",
+        "RowCount": 1121549,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tbl_Employee_Information_Audit",
+        "RowCount": 1087148,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_TL_Input_Allotment_Audit",
+        "RowCount": 1068697,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "InvoiceEmployeeDetail",
+        "RowCount": 1053532,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_HRA_Calculation_Detail",
+        "RowCount": 1021604,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "TBL_Employee_Increment_Details_Audit",
+        "RowCount": 855248,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_Increment_MidMonth",
+        "RowCount": 842280,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "Query",
+        "RowCount": 785381,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "Harbour_Employee",
+        "RowCount": 728754,
+        "ColumnCount": 63
+      },
+      {
+        "TableName": "tbl_Invoice_Collection_Detail",
+        "RowCount": 710073,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "tbl_Transfer_Employee_Audit",
+        "RowCount": 701301,
+        "ColumnCount": 57
+      },
+      {
+        "TableName": "tbl_Employee_Salary_Information_Audit",
+        "RowCount": 682128,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tempHarbour_Employee",
+        "RowCount": 672191,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_ArrearPaySlipData",
+        "RowCount": 670971,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "Temp_Mark_Attendance",
+        "RowCount": 664590,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "TBL_Staging_Attendance",
+        "RowCount": 664590,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "temp_tbl_Employee_Employment_Detail",
+        "RowCount": 652329,
+        "ColumnCount": 35
+      },
+      {
+        "TableName": "TaxRemittanceDelete29Apr",
+        "RowCount": 630663,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_LOP_Adjustment_Detail",
+        "RowCount": 562581,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Bank_Invoice_Disbursal_Details",
+        "RowCount": 552043,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "TBL_Employee_Increment_Details",
+        "RowCount": 523508,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "xmldata_Backup_28Oct2019",
+        "RowCount": 476644,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "xmldata",
+        "RowCount": 458376,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Leave_Opening_Balance_Detail_Audit",
+        "RowCount": 440951,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "TBL_EMPLOYEE_ATTENDANCE_History",
+        "RowCount": 432429,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "Table_21",
+        "RowCount": 402351,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_FPayroll",
+        "RowCount": 401750,
+        "ColumnCount": 504
+      },
+      {
+        "TableName": "tbl_FTds",
+        "RowCount": 401749,
+        "ColumnCount": 959
+      },
+      {
+        "TableName": "TBL_Employee_Increment_Details_History",
+        "RowCount": 377902,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "temptblomsid",
+        "RowCount": 365744,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "GstInvoice",
+        "RowCount": 357972,
+        "ColumnCount": 134
+      },
+      {
+        "TableName": "tb_HeptagonService_Active_InActiveEmp",
+        "RowCount": 350726,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Temp_EmployeePanData",
+        "RowCount": 323997,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "Qspace_IncrData",
+        "RowCount": 317288,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "Temp_ChallanNumberEmployeeData",
+        "RowCount": 306186,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "InvoiceT",
+        "RowCount": 300581,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "tbl_sap_account_noninvoice",
+        "RowCount": 295030,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "Tbl_UserAudit",
+        "RowCount": 282721,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_New_Joinee_Attendance_Arrear",
+        "RowCount": 261628,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_Invoice_Bank_Advice_Approvals",
+        "RowCount": 261019,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Invoice_Collection",
+        "RowCount": 229508,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "BI_TERRIER_SALARY_DATA_delete",
+        "RowCount": 222516,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Invoice",
+        "RowCount": 216554,
+        "ColumnCount": 91
+      },
+      {
+        "TableName": "proc_data1",
+        "RowCount": 215625,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Pay_Frequency_Detail_1",
+        "RowCount": 214082,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Pay_Register_Builder_Detail",
+        "RowCount": 212340,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "GstInvoiceComputed_delete",
+        "RowCount": 210665,
+        "ColumnCount": 108
+      },
+      {
+        "TableName": "tbl_Client_Advance_Payment",
+        "RowCount": 209447,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Service_Charge_Audit",
+        "RowCount": 205299,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "INVOICECOLLECTIONREPORT",
+        "RowCount": 201217,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "PaidInvoices",
+        "RowCount": 200276,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Transfer_Employee",
+        "RowCount": 198591,
+        "ColumnCount": 75
+      },
+      {
+        "TableName": "tbl_Pay_Process",
+        "RowCount": 197349,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "sysssislog",
+        "RowCount": 186916,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Employee_Loan_Detail",
+        "RowCount": 186376,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "temp_joineedata",
+        "RowCount": 179049,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "bankdiff_delete",
+        "RowCount": 173715,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "a",
+        "RowCount": 170649,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "TempInvoiceSummaryReport",
+        "RowCount": 167670,
+        "ColumnCount": 60
+      },
+      {
+        "TableName": "tbl_Pay_Frequency_Detail",
+        "RowCount": 163680,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "Radar_Leave_Master",
+        "RowCount": 157977,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_City",
+        "RowCount": 155071,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_city_28AUG2019",
+        "RowCount": 155069,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tbl_Company_Paycode_Mapping_Detail",
+        "RowCount": 145569,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Company_Pay_Structure_Detail",
+        "RowCount": 145274,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_GstRemittancetatus",
+        "RowCount": 139900,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Tax_Declaration_Actual",
+        "RowCount": 136735,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Employee_Contact_Detail_Audit",
+        "RowCount": 134715,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Sap_Invoice_Book_Register",
+        "RowCount": 133225,
+        "ColumnCount": 43
+      },
+      {
+        "TableName": "tbl_Employee_Personal_Detail_Audit",
+        "RowCount": 130653,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_FArrear",
+        "RowCount": 129017,
+        "ColumnCount": 468
+      },
+      {
+        "TableName": "tbl_IFSC",
+        "RowCount": 128617,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "xmldataNew",
+        "RowCount": 128374,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "ManualDataBANKAD$",
+        "RowCount": 128135,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Company_Permission_Details",
+        "RowCount": 126927,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_HRA_Calculation",
+        "RowCount": 123082,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Sap_On_Account_Register",
+        "RowCount": 121108,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "tbl_IT_Adjustment_Detail",
+        "RowCount": 110736,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "prcdata",
+        "RowCount": 108736,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_radar_attendance_GTS0001_All",
+        "RowCount": 107655,
+        "ColumnCount": 49
+      },
+      {
+        "TableName": "tbl_radar_attendance_GTS0001_02012020",
+        "RowCount": 107655,
+        "ColumnCount": 49
+      },
+      {
+        "TableName": "tbl_Invoice_Initiate_Log",
+        "RowCount": 106388,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Cheque_Allocation_Audit",
+        "RowCount": 104914,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_sap_account_noninvoice_employee",
+        "RowCount": 102278,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "Temp_POEmployeeMappingDetail",
+        "RowCount": 100375,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_IT_Adjustment",
+        "RowCount": 100220,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Radar_Leave_Master_All",
+        "RowCount": 96808,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Tbl_One_Time_Input_History",
+        "RowCount": 96743,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Transfer_Employee_Histroy",
+        "RowCount": 94762,
+        "ColumnCount": 63
+      },
+      {
+        "TableName": "Tbl_Salary_Process_Initiate_Detail",
+        "RowCount": 91468,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "BI_Terrier_Employee_data_delete",
+        "RowCount": 88315,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "PO_EmployeeMapping",
+        "RowCount": 86874,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "Radar_Leave_Master_02012020",
+        "RowCount": 86452,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "ptlocationmapping",
+        "RowCount": 83824,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "deepika_delete",
+        "RowCount": 73815,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "ClientGst_Audit",
+        "RowCount": 73446,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_radar_increment_data_All",
+        "RowCount": 73134,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "tbl_radar_increment_data_02012020",
+        "RowCount": 73134,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "tbl_radar_newjoinee_salary_Audit",
+        "RowCount": 71953,
+        "ColumnCount": 36
+      },
+      {
+        "TableName": "VW_POEmployeeMappingDetailAnant",
+        "RowCount": 71769,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_actual_declaration_integration",
+        "RowCount": 69539,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Company_Audit",
+        "RowCount": 69521,
+        "ColumnCount": 116
+      },
+      {
+        "TableName": "HeptagonTransferredInvoicesynPOP",
+        "RowCount": 66287,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "ClientAddress_Audit",
+        "RowCount": 63575,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "Collection_Pending_delete",
+        "RowCount": 63096,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "tbl_Pay_Transaction",
+        "RowCount": 61896,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "Temp_FEmployee",
+        "RowCount": 58859,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_CreditNote",
+        "RowCount": 58789,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "taxregime",
+        "RowCount": 58666,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "proc_data",
+        "RowCount": 55926,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Leave_Taken",
+        "RowCount": 54297,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Harbour_Emp",
+        "RowCount": 53988,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "taxregime1",
+        "RowCount": 53460,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Cheque_Allocation_Track",
+        "RowCount": 51698,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Tbl_Bank_Invoice_ForeCast",
+        "RowCount": 49473,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "natrajtest",
+        "RowCount": 46596,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Tbl_Transfer_Employee_Pay_Structure_History",
+        "RowCount": 46147,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tblUserAudit",
+        "RowCount": 45103,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "tbl_Input_Current_Status",
+        "RowCount": 44814,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_HRA_Calculation_Integration",
+        "RowCount": 44636,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_TL_Input_Allotment",
+        "RowCount": 43672,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Designation",
+        "RowCount": 41972,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tempArrear",
+        "RowCount": 41423,
+        "ColumnCount": 291
+      },
+      {
+        "TableName": "tbl_InputStatus_LotNumber",
+        "RowCount": 40766,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "TBL_PAYDETAILS_Audit",
+        "RowCount": 40320,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tbl_Invoice_Initiate_Log_Audit",
+        "RowCount": 39627,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_ArrearPayrolldata",
+        "RowCount": 37461,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Employee_bank_history",
+        "RowCount": 37425,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "AccountChanged_delete",
+        "RowCount": 37425,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Bank_Audit",
+        "RowCount": 37425,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Attendance",
+        "RowCount": 37130,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tempPayRegister",
+        "RowCount": 36771,
+        "ColumnCount": 206
+      },
+      {
+        "TableName": "Temp_Rudra",
+        "RowCount": 36628,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "discid_delete_delete",
+        "RowCount": 36628,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "FANdFDetails_delete",
+        "RowCount": 36628,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Leave_Opening_Balance_Detail",
+        "RowCount": 36405,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tmpEmp",
+        "RowCount": 36118,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Employee_Loan",
+        "RowCount": 35984,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "tbl_InputStatus_LotNumber_27042020",
+        "RowCount": 35128,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tempArrearPayrolldata",
+        "RowCount": 34718,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Company_Provided_Benefit",
+        "RowCount": 33940,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "TBL_OspaceEmployeeIMP_STG",
+        "RowCount": 33856,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tmp_Sourcing",
+        "RowCount": 33511,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_City_Temp",
+        "RowCount": 32924,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "ClientAddress",
+        "RowCount": 27789,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "tbl_Employee_Loan_Detail_Audit",
+        "RowCount": 27582,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "CollectionTarget",
+        "RowCount": 27420,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_radar_attendance_GTS0001",
+        "RowCount": 27064,
+        "ColumnCount": 54
+      },
+      {
+        "TableName": "tbl_Sap_Salary_Payable_Register",
+        "RowCount": 26226,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "newdata",
+        "RowCount": 26033,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "Fulldatatatt_delete",
+        "RowCount": 25802,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "Fulldatatatt5_delete",
+        "RowCount": 25472,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "GstInvoiceUploadLog",
+        "RowCount": 24935,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "attn",
+        "RowCount": 24629,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "todaydata",
+        "RowCount": 24381,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "tbl_Client_Advance_Payment_Audit",
+        "RowCount": 23975,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_Company_Provided_Benefit_27032020",
+        "RowCount": 23002,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "AccountChanged1_delete",
+        "RowCount": 22921,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "RolePermission",
+        "RowCount": 22616,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "gradedata_delete",
+        "RowCount": 22492,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "bank_diff2_delete",
+        "RowCount": 22170,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "processedemployee",
+        "RowCount": 22121,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Service_Charge",
+        "RowCount": 21956,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "LocationWiseSOA_Main",
+        "RowCount": 21125,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "tbl_Horbour_Ikya_Designation_Master",
+        "RowCount": 20550,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "op",
+        "RowCount": 20172,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "DummyBatch_delete",
+        "RowCount": 19276,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "RolePermissionHistory",
+        "RowCount": 18688,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Error_Log",
+        "RowCount": 18653,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "temp_Tax_RStaging",
+        "RowCount": 17702,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_Cost_Center_Mapping",
+        "RowCount": 17498,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Pay_Frequency",
+        "RowCount": 17124,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_perk",
+        "RowCount": 16470,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "InvoiceDiscrepancy",
+        "RowCount": 16290,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tempCompanyy",
+        "RowCount": 15885,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "Collection_Pending_Consolidated_SOA",
+        "RowCount": 15806,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "Cost_Preparation_delete",
+        "RowCount": 15585,
+        "ColumnCount": 56
+      },
+      {
+        "TableName": "tbl_Previous_Employment_Tax_Details",
+        "RowCount": 15129,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "bank_diff1_delete",
+        "RowCount": 14145,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "octtomar19",
+        "RowCount": 14032,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_LOP_Adjustment",
+        "RowCount": 13770,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "Tbl_Bank_Invoice_Advice_Split_Culture_Detail",
+        "RowCount": 13449,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "HRAVERIFY_delete",
+        "RowCount": 13114,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Invoice_Detail",
+        "RowCount": 12992,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_radar_increment_data_Audit",
+        "RowCount": 12967,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "tmp_City",
+        "RowCount": 12629,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "MISDetail_7Nov2019",
+        "RowCount": 12545,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "MISReportDetails_October2019",
+        "RowCount": 12397,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "QpayDataExportData",
+        "RowCount": 12207,
+        "ColumnCount": 62
+      },
+      {
+        "TableName": "PTCIRCLE_MAPPING",
+        "RowCount": 11824,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "temp2",
+        "RowCount": 11696,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "temp5",
+        "RowCount": 11696,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "temp3",
+        "RowCount": 11696,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Tbl_Bank_Invoice_Partial_Release",
+        "RowCount": 11565,
+        "ColumnCount": 66
+      },
+      {
+        "TableName": "MISReportDetails_November2019",
+        "RowCount": 11511,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "tbl_Group_Detail",
+        "RowCount": 11508,
+        "ColumnCount": 63
+      },
+      {
+        "TableName": "tbl_Bank_Culture_Invoice",
+        "RowCount": 11432,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "MISReportDetails_March2020",
+        "RowCount": 11130,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "tempAvon",
+        "RowCount": 11069,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "temp_perk_rudra",
+        "RowCount": 10938,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Collection_Pending_Consolidated_SOADSO_delete",
+        "RowCount": 10815,
+        "ColumnCount": 28
+      },
+      {
+        "TableName": "MISReportDetails_December2019",
+        "RowCount": 10502,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "Collection_Pending_CFO",
+        "RowCount": 10497,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "actual_hra_integration_delete",
+        "RowCount": 10480,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "MISReportDetails_September2019",
+        "RowCount": 10334,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "tempemployee",
+        "RowCount": 10261,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_SAPSD_GSBilling",
+        "RowCount": 10160,
+        "ColumnCount": 69
+      },
+      {
+        "TableName": "bkactual_delete",
+        "RowCount": 10086,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "MISReportDetails_May2020",
+        "RowCount": 10077,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "AccountChanged2_delete",
+        "RowCount": 9926,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "prbonupd",
+        "RowCount": 9867,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "MISReportDetails_February2020",
+        "RowCount": 9567,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "MISReportDetails_January2020",
+        "RowCount": 9556,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "MISReportDetails_April2020",
+        "RowCount": 9241,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "Radar_Leave_Master_02012010",
+        "RowCount": 9102,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Tbl_Duplicate3",
+        "RowCount": 9054,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "MISDetail",
+        "RowCount": 9048,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "Tbl_Magna_Salary_Information",
+        "RowCount": 8858,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_InvoiceCulture",
+        "RowCount": 8634,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "temp4",
+        "RowCount": 8605,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "CFODSOSummary",
+        "RowCount": 8584,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "RolePermission_BKP",
+        "RowCount": 8528,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_radar_new_joinee_all",
+        "RowCount": 8328,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "bkOFFER_PAY_STRUCTURE_delete",
+        "RowCount": 8242,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "DSOSummary_delete",
+        "RowCount": 8194,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "actual_integration_delete",
+        "RowCount": 8101,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Department",
+        "RowCount": 8049,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tempSearchAttendance",
+        "RowCount": 7826,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "Table_16",
+        "RowCount": 7785,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Harbour_Employee_19122018_delete",
+        "RowCount": 7780,
+        "ColumnCount": 59
+      },
+      {
+        "TableName": "tbl_PayRegister_Details",
+        "RowCount": 7632,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "MISDATA",
+        "RowCount": 7598,
+        "ColumnCount": 48
+      },
+      {
+        "TableName": "tbl_radar_new_joinee_02012020",
+        "RowCount": 7537,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "tbl_radar_newjoinee_salary_02012020",
+        "RowCount": 7369,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "tbl_radar_newjoinee_salary_All",
+        "RowCount": 7369,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "ClientGst",
+        "RowCount": 7326,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "ProvisionalInvoices",
+        "RowCount": 7314,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_invoiceBackup",
+        "RowCount": 6917,
+        "ColumnCount": 83
+      },
+      {
+        "TableName": "bank_diff_delete",
+        "RowCount": 6853,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tempInvoice",
+        "RowCount": 6605,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_IT_Calender",
+        "RowCount": 6592,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "Tbl_Salary_Process_Initiate",
+        "RowCount": 6567,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_tbl_Company_Provided_Benefit_25jan2019",
+        "RowCount": 6467,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tempempCompanybenefit",
+        "RowCount": 6437,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "Table_23",
+        "RowCount": 6041,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tempemploye",
+        "RowCount": 6029,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_radar_increment_data",
+        "RowCount": 5835,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "Tbl_Bank_Non_Advice_Split_Culture_Detail",
+        "RowCount": 5739,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Purchase_Order",
+        "RowCount": 5607,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tempUploadData_Fixed_1",
+        "RowCount": 5602,
+        "ColumnCount": 116
+      },
+      {
+        "TableName": "tbl_group_detail_21_may_2019",
+        "RowCount": 5552,
+        "ColumnCount": 44
+      },
+      {
+        "TableName": "tbl_Group_Detail_16may2019",
+        "RowCount": 5545,
+        "ColumnCount": 44
+      },
+      {
+        "TableName": "tbl_Employee_Loan_Audit",
+        "RowCount": 5483,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "BI_Terrier_Company_Master_delete",
+        "RowCount": 5458,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Income_Loss_On_House_Property",
+        "RowCount": 5429,
+        "ColumnCount": 28
+      },
+      {
+        "TableName": "lgdata",
+        "RowCount": 5335,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "Permission",
+        "RowCount": 4601,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "ZoneWiseSOA_Main",
+        "RowCount": 4583,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "Temp_SOA_PSL00002DSO",
+        "RowCount": 4577,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "tempHRA_Calculation1",
+        "RowCount": 4529,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tempHRA_Calculation",
+        "RowCount": 4529,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "temp_ItAdjustment_delete",
+        "RowCount": 4481,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Lock_PayPeriod",
+        "RowCount": 4470,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tempemployee1",
+        "RowCount": 4407,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "costreport_delete",
+        "RowCount": 4283,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "PO_InvoiceCulturePONumber",
+        "RowCount": 4193,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "TEMPP",
+        "RowCount": 4172,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "TBL_POPEmployee_Stg",
+        "RowCount": 4167,
+        "ColumnCount": 40
+      },
+      {
+        "TableName": "TB_HARBOUR_OFFER_DETAILS",
+        "RowCount": 4054,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "tbl_demo",
+        "RowCount": 3973,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Natraj_demo2",
+        "RowCount": 3942,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_SiteMaster_1june18",
+        "RowCount": 3840,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "InvoiceCollectionRemove",
+        "RowCount": 3799,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_sourcing_rudra",
+        "RowCount": 3704,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "pdata",
+        "RowCount": 3519,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "TBL_PayFrequencyFROMQsite_Temp",
+        "RowCount": 3404,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "temp_bfl",
+        "RowCount": 3387,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "MISNAME",
+        "RowCount": 3339,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "COLLECTIONPENDING_delete",
+        "RowCount": 3261,
+        "ColumnCount": 28
+      },
+      {
+        "TableName": "tbl_Income_Loss_On_House_Property_Integration",
+        "RowCount": 3223,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Client",
+        "RowCount": 3209,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Group_Detail_Natraj",
+        "RowCount": 3150,
+        "ColumnCount": 42
+      },
+      {
+        "TableName": "tbl_Bank_Invoice_TdsSlabMaster",
+        "RowCount": 2898,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_Company_Address_Detail",
+        "RowCount": 2872,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "tbl_Minimum_Wage",
+        "RowCount": 2867,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "harbour_employee_Axis_delete",
+        "RowCount": 2851,
+        "ColumnCount": 59
+      },
+      {
+        "TableName": "Temp_OTAttQsite_Stag",
+        "RowCount": 2823,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "OTAttQsite_Stag",
+        "RowCount": 2823,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_tbl_service_charge",
+        "RowCount": 2810,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_TypeOfInvoice_Assoc",
+        "RowCount": 2789,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "CreditNoteAudit_delete",
+        "RowCount": 2677,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tempcompany",
+        "RowCount": 2673,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_HRA_Actuals_AIMS",
+        "RowCount": 2644,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "bloodgroup_delete",
+        "RowCount": 2586,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "temp_branchcode",
+        "RowCount": 2557,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "B",
+        "RowCount": 2492,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tmp_OtherIncome_Delete_error",
+        "RowCount": 2468,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tmp_OtherIncome_Delete1",
+        "RowCount": 2468,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "Table_ETDS",
+        "RowCount": 2463,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_LTA_Declaration",
+        "RowCount": 2431,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_LTA_Declaration_Detail",
+        "RowCount": 2431,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tmp_AINSR",
+        "RowCount": 2390,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_LTA_Declaration_Integration",
+        "RowCount": 2370,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Company",
+        "RowCount": 2366,
+        "ColumnCount": 112
+      },
+      {
+        "TableName": "tbl_company_backup",
+        "RowCount": 2345,
+        "ColumnCount": 98
+      },
+      {
+        "TableName": "TempProvisionalInvoiceAdjustment",
+        "RowCount": 2343,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_client_group_mapping1",
+        "RowCount": 2335,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "Tbl_LocationWiseClientMapping1",
+        "RowCount": 2335,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "Tbl_LocationWiseClientMapping",
+        "RowCount": 2335,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "Tbl_Client_Group_Mapping",
+        "RowCount": 2335,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Salary_Release_Request_Mail",
+        "RowCount": 2287,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Sheet1$",
+        "RowCount": 2261,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "BUHContactDetail",
+        "RowCount": 2241,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Tbl_Bank_Non_Advice_Split_Culture",
+        "RowCount": 2190,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "HeptagonTransferredClientsynPOP",
+        "RowCount": 2148,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "Tbl_Bank_Invoice_Advice_Split_Culture",
+        "RowCount": 2097,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "lp",
+        "RowCount": 2075,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tb",
+        "RowCount": 2071,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tempCreditNote1",
+        "RowCount": 1976,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "temp_NewJoineeSalary_Delete",
+        "RowCount": 1950,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "AVON_Leave_Balance_delete",
+        "RowCount": 1946,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Temp_tempIncrementpaycodes",
+        "RowCount": 1938,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Company_Contract_Detail",
+        "RowCount": 1905,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Company_Bank_Detail",
+        "RowCount": 1901,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Band",
+        "RowCount": 1859,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Company_Pay_Structure",
+        "RowCount": 1835,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Company_Paycode_Mapping",
+        "RowCount": 1834,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Pay_Register_Builder",
+        "RowCount": 1833,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tmp_employee",
+        "RowCount": 1801,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "POPQSITE",
+        "RowCount": 1797,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "PayFrequencyQsite_tbl",
+        "RowCount": 1797,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "partupd",
+        "RowCount": 1716,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "TBL_PayFrequencyFROMQsite_Stag",
+        "RowCount": 1702,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "SegmentData",
+        "RowCount": 1696,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Formula",
+        "RowCount": 1620,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Site_STG",
+        "RowCount": 1592,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Horbour_Avon_Designation_Master",
+        "RowCount": 1565,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Contract_Extensions",
+        "RowCount": 1517,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_NewCompanyCode",
+        "RowCount": 1508,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "ITCL",
+        "RowCount": 1494,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "blockdec18payperiod_delete",
+        "RowCount": 1393,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_MIS_Accruals",
+        "RowCount": 1389,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_radar_new_joinee_Audit",
+        "RowCount": 1388,
+        "ColumnCount": 37
+      },
+      {
+        "TableName": "tbl_radar_new_joinee",
+        "RowCount": 1386,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "tbl_Group",
+        "RowCount": 1319,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "costcentre1_delete",
+        "RowCount": 1298,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "dashcompany_delete",
+        "RowCount": 1217,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "NEFT",
+        "RowCount": 1190,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tbl_Particulars",
+        "RowCount": 1164,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "RevisedTemp1",
+        "RowCount": 1156,
+        "ColumnCount": 43
+      },
+      {
+        "TableName": "AutoSalaryHold_delete",
+        "RowCount": 1149,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "GstInvoice_Cancel_Details",
+        "RowCount": 1148,
+        "ColumnCount": 47
+      },
+      {
+        "TableName": "CompanyInvoiceFormat",
+        "RowCount": 1141,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "ActiveSites_delete",
+        "RowCount": 1138,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tempemployeerudra",
+        "RowCount": 1134,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "Chqrequest_delete",
+        "RowCount": 1121,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_PayFequency_Detail_Old",
+        "RowCount": 1118,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "prasad",
+        "RowCount": 1033,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Tds",
+        "RowCount": 1005,
+        "ColumnCount": 958
+      },
+      {
+        "TableName": "tbl_Active_Clients_Details",
+        "RowCount": 1003,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_radar_newjoinee_salary",
+        "RowCount": 979,
+        "ColumnCount": 32
+      },
+      {
+        "TableName": "Trace",
+        "RowCount": 931,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Tbl_Bank_Non_Invoice_Finance_Hold",
+        "RowCount": 918,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tmp_company",
+        "RowCount": 906,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "HRAVERIFY1_delete",
+        "RowCount": 883,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "AIMS2018INTEGRATION_delete",
+        "RowCount": 870,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "temp_INCREMENT1",
+        "RowCount": 858,
+        "ColumnCount": 29
+      },
+      {
+        "TableName": "temp_INCREMENT",
+        "RowCount": 858,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "IT_CALEN",
+        "RowCount": 855,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_tempTax",
+        "RowCount": 849,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Invoice_Bank_Advice_Approvals_Partial_Release",
+        "RowCount": 829,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "temp_NewJoineeSalary",
+        "RowCount": 825,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "tempemployeeDetails",
+        "RowCount": 822,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Pay_Frequency_Detail1",
+        "RowCount": 820,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_Payroll",
+        "RowCount": 808,
+        "ColumnCount": 502
+      },
+      {
+        "TableName": "tmp_Fprocess",
+        "RowCount": 805,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "CancelledInvoice_delete",
+        "RowCount": 797,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "CancelInvoice_delete",
+        "RowCount": 797,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Non_bank_diff",
+        "RowCount": 790,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Bank",
+        "RowCount": 776,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "BFL_delete",
+        "RowCount": 763,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Employee_Transfer_Audit",
+        "RowCount": 737,
+        "ColumnCount": 35
+      },
+      {
+        "TableName": "Temp_CurrentMonthExtra",
+        "RowCount": 733,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tempBankDetails",
+        "RowCount": 729,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_bank_Backup_06Sep2019",
+        "RowCount": 724,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "Table_2",
+        "RowCount": 708,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "InvoiceRemovalCFO",
+        "RowCount": 686,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "OnAccountCFO",
+        "RowCount": 681,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Company_Permission",
+        "RowCount": 672,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "actual_housing_loan_delete",
+        "RowCount": 631,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Sap_Credit_Note_Register",
+        "RowCount": 624,
+        "ColumnCount": 40
+      },
+      {
+        "TableName": "tmpbank",
+        "RowCount": 608,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Investment_Actuals_AIMS",
+        "RowCount": 564,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Invoice_Company_Code",
+        "RowCount": 515,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "GstMaster_Audit",
+        "RowCount": 508,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "Table_26",
+        "RowCount": 507,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "MISReportSummary_February2020",
+        "RowCount": 490,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "MISReportSummary_April2020",
+        "RowCount": 490,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "tbm_temp1",
+        "RowCount": 486,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "MISReportSummary_January2020",
+        "RowCount": 482,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "MISReportSummary_March2020",
+        "RowCount": 480,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "MISReportSummary_May2020",
+        "RowCount": 478,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "MISReportSummary_December2019",
+        "RowCount": 475,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "MISReportSummary_November2019",
+        "RowCount": 467,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "MISReportSummary_October2019",
+        "RowCount": 465,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "MISReportSummary_September2019",
+        "RowCount": 463,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "tmp_OtherIncome_Delete",
+        "RowCount": 457,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "temp_OtherIncome_Delete",
+        "RowCount": 457,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "Table_17",
+        "RowCount": 428,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "ProvisionalInvoiceAdjustment_Audit",
+        "RowCount": 427,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "Temp_shailendra",
+        "RowCount": 427,
+        "ColumnCount": 87
+      },
+      {
+        "TableName": "Tbl_Invoice_Adhoc_Particulars",
+        "RowCount": 420,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "ProvisionalInvoiceAdjustment",
+        "RowCount": 417,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Sourcing_Mapping",
+        "RowCount": 410,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Table_11",
+        "RowCount": 391,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Pay_Register_Builder_Consolidated",
+        "RowCount": 386,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "DEMOTABLE2_delete",
+        "RowCount": 381,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "DEMOtABLE_delete",
+        "RowCount": 381,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_PaySlip_Reimb",
+        "RowCount": 378,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "TempStaging",
+        "RowCount": 377,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "CompanyContractDate1_delete",
+        "RowCount": 376,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_resign",
+        "RowCount": 362,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "ContractEndDate_delete",
+        "RowCount": 357,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_VPayroll",
+        "RowCount": 345,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "Table_15",
+        "RowCount": 334,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "PO_InvoiceCulture",
+        "RowCount": 333,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "HRADECLARATION2018_delete",
+        "RowCount": 330,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "Table_19",
+        "RowCount": 323,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "TEMPUNPIVOTREMARK_1",
+        "RowCount": 320,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "TEMPUNPIVOTVALUE_1",
+        "RowCount": 320,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Paycode",
+        "RowCount": 319,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tmp_tbl_vertical_Master",
+        "RowCount": 304,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "Navigation",
+        "RowCount": 294,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "emp_UploadData_SA1_delete",
+        "RowCount": 286,
+        "ColumnCount": 98
+      },
+      {
+        "TableName": "hradeclaration_delete",
+        "RowCount": 283,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Previous_Employment_Tax_Details_Integration",
+        "RowCount": 282,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "Temp_ExcelRowNo",
+        "RowCount": 280,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "TempF",
+        "RowCount": 280,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "temp",
+        "RowCount": 271,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tmp_Bank_Account",
+        "RowCount": 270,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "TempInvoiceNumbers",
+        "RowCount": 268,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "MISReportAccruals_April2020",
+        "RowCount": 262,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_Professional_Tax_Slab_Detail",
+        "RowCount": 260,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "porefid",
+        "RowCount": 259,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "TempSitemaster",
+        "RowCount": 250,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "TempErrorMessage",
+        "RowCount": 244,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "ImportField",
+        "RowCount": 242,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "TBL_Country",
+        "RowCount": 233,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "invoicemapping",
+        "RowCount": 230,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "SplitNetpay",
+        "RowCount": 218,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "banksplit_delete",
+        "RowCount": 217,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "dbo.investmentdecl_delete",
+        "RowCount": 215,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "mis02group",
+        "RowCount": 207,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "GSTLocationChange_delete",
+        "RowCount": 200,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "temp_pay",
+        "RowCount": 198,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "tbl_Reimbursement_Detail",
+        "RowCount": 198,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Temp_MISReport_payperiod",
+        "RowCount": 196,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "Natraj_demo3",
+        "RowCount": 195,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "SFTITTwice",
+        "RowCount": 194,
+        "ColumnCount": 27
+      },
+      {
+        "TableName": "Table_14",
+        "RowCount": 192,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_FinanceInvoiceDetails_Search",
+        "RowCount": 186,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "Tbl_Location_Rule_Mapping",
+        "RowCount": 177,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_dynamic_upload_validation",
+        "RowCount": 177,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "Microsoft_POUpdation",
+        "RowCount": 172,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "abc2_delete",
+        "RowCount": 171,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Computation_Rule",
+        "RowCount": 170,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "natraj_demo",
+        "RowCount": 170,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "Table_13",
+        "RowCount": 170,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "MISReportAccruals_September2019",
+        "RowCount": 169,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "investmentdecl",
+        "RowCount": 166,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "mis01group",
+        "RowCount": 166,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Qzone_PEDetails",
+        "RowCount": 166,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_employee_dep_desg",
+        "RowCount": 160,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "actual_lta_delete",
+        "RowCount": 157,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "batacode_delete",
+        "RowCount": 154,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tmp_tbl_company",
+        "RowCount": 154,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "lgdata1",
+        "RowCount": 153,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "MISReportAccruals_October2019",
+        "RowCount": 151,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "GEN",
+        "RowCount": 147,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Entity_Profit_Center",
+        "RowCount": 147,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Employee_Transfer",
+        "RowCount": 147,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "MISReportAccruals_January2020",
+        "RowCount": 146,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_LWF_Slab_Detail",
+        "RowCount": 146,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Leave_Opening_Balance",
+        "RowCount": 145,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "ESILOCATIONCODEDETAILS",
+        "RowCount": 143,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "temprudra1",
+        "RowCount": 140,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "DownLoadTemplate",
+        "RowCount": 139,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_AxisEmpAttendance",
+        "RowCount": 139,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tempUploadData_Dateformat_1",
+        "RowCount": 136,
+        "ColumnCount": 35
+      },
+      {
+        "TableName": "Tbl_Bank_Non_Invoice_Partial_Release",
+        "RowCount": 136,
+        "ColumnCount": 58
+      },
+      {
+        "TableName": "tmp_Group",
+        "RowCount": 136,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tmp_SiteMaster_WBS",
+        "RowCount": 136,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "Tbl_Salary_Process_Partial_Initiate_Detail",
+        "RowCount": 136,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "temp_attendance1_T",
+        "RowCount": 135,
+        "ColumnCount": 63
+      },
+      {
+        "TableName": "Tbl_UnBlockHistory",
+        "RowCount": 133,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_User",
+        "RowCount": 127,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "CompCED_delete",
+        "RowCount": 122,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Stddesignation",
+        "RowCount": 121,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "UserRole",
+        "RowCount": 118,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "batasapcode_delete",
+        "RowCount": 117,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Paycode_temp",
+        "RowCount": 116,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "GstMaster",
+        "RowCount": 112,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "ClientInActive_delete",
+        "RowCount": 112,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "CreditNote_delete",
+        "RowCount": 109,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "temp_tbl_Pay_Frequency_Detail",
+        "RowCount": 108,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Upload_Type_Column",
+        "RowCount": 106,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tmp_OthEmp",
+        "RowCount": 106,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Upload_Type_Column_BACKUP",
+        "RowCount": 105,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tempCompany_PayCode",
+        "RowCount": 103,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_upload_type_column17March2020",
+        "RowCount": 103,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Employee_Information_AIMS",
+        "RowCount": 100,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "WrongTDSJan2020",
+        "RowCount": 100,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_GenericUploadPermission",
+        "RowCount": 100,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_TDS_Slab_Detail",
+        "RowCount": 99,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "t",
+        "RowCount": 96,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Loan_PreClose",
+        "RowCount": 95,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "bankupd_delete",
+        "RowCount": 95,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "MISReportAccruals_November2019",
+        "RowCount": 93,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "GenericUploadPermissionData_delete",
+        "RowCount": 92,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "MISReportAccruals_December2019",
+        "RowCount": 91,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_Bank_Culture",
+        "RowCount": 89,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "MISReportEntitySummary_May2020",
+        "RowCount": 89,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Loan_Amendment",
+        "RowCount": 85,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Upload_Type_Column09July",
+        "RowCount": 85,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "MISReportEntitySummary_April2020",
+        "RowCount": 84,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "MISReportAccruals_May2020",
+        "RowCount": 84,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "temp_LeaveOB",
+        "RowCount": 83,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "LoanSchedule_24072020",
+        "RowCount": 82,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "atttest_delete",
+        "RowCount": 82,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "NetPayCorrection",
+        "RowCount": 81,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "actual_previous_employement_delete",
+        "RowCount": 78,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "ComplaianceReportMasterTbl_delete",
+        "RowCount": 77,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "MISReportEntitySummary_March2020",
+        "RowCount": 76,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Provident_Fund_Detail",
+        "RowCount": 75,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tmp_Servicecharge",
+        "RowCount": 73,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Frequencey",
+        "RowCount": 72,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "MISReportEntitySummary_February2020",
+        "RowCount": 72,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "GstMasterUpload_delete",
+        "RowCount": 72,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "text_Anant",
+        "RowCount": 71,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tempComp_Paycode",
+        "RowCount": 70,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "TB_CLIENT_PAY_COMPONENTS",
+        "RowCount": 69,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "MISReportEntitySummary_January2020",
+        "RowCount": 68,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "LoanSchedule",
+        "RowCount": 68,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Arrear",
+        "RowCount": 66,
+        "ColumnCount": 467
+      },
+      {
+        "TableName": "Temp_InvoiceNumber",
+        "RowCount": 64,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "MISReportAccruals_March2020",
+        "RowCount": 64,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_Loan_Schedule_Detail",
+        "RowCount": 64,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Vendor_Loan",
+        "RowCount": 64,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "company_FAndFPayMode_delete",
+        "RowCount": 64,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "MISReportEntitySummary_December2019",
+        "RowCount": 63,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "MIS_Invoices",
+        "RowCount": 63,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Pay_Frequency1",
+        "RowCount": 63,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "Table_Cost",
+        "RowCount": 62,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Professional_Tax_Slab",
+        "RowCount": 62,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "ReportMasterTbl",
+        "RowCount": 62,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "Table_12",
+        "RowCount": 62,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "TempReimbursement1",
+        "RowCount": 61,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "MISReportEntitySummary_November2019",
+        "RowCount": 60,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "muthutemp",
+        "RowCount": 60,
+        "ColumnCount": 77
+      },
+      {
+        "TableName": "tmp_Axpot",
+        "RowCount": 58,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "MISReportEntitySummary_October2019",
+        "RowCount": 55,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Temp_Accruals_KnockOff",
+        "RowCount": 55,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_HREIMB",
+        "RowCount": 52,
+        "ColumnCount": 99
+      },
+      {
+        "TableName": "tmp_Client_Advance_Payment",
+        "RowCount": 52,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "Table_4",
+        "RowCount": 51,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "MISReportEntitySummary_September2019",
+        "RowCount": 50,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Table_6",
+        "RowCount": 48,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "format5_delete",
+        "RowCount": 48,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "temp_GroupMaster",
+        "RowCount": 47,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "ImportTableValidation",
+        "RowCount": 47,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Entity",
+        "RowCount": 46,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Invoice_Formats",
+        "RowCount": 45,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Segment",
+        "RowCount": 44,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Invoice_Formats_BackUP_28March2020",
+        "RowCount": 44,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "aa_delete",
+        "RowCount": 44,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tmp_OtherIncome",
+        "RowCount": 43,
+        "ColumnCount": 68
+      },
+      {
+        "TableName": "tbl_State",
+        "RowCount": 42,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "Role",
+        "RowCount": 42,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Provident_Fund",
+        "RowCount": 42,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "hradecl1_delete",
+        "RowCount": 41,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "InvoiceComponent",
+        "RowCount": 41,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "temp_vendor",
+        "RowCount": 41,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Table_5",
+        "RowCount": 40,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "hradecl_delete",
+        "RowCount": 39,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "bnetpay_delete",
+        "RowCount": 39,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tempCreditNote",
+        "RowCount": 39,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tbl_PT_Block_Detail",
+        "RowCount": 39,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "HRA",
+        "RowCount": 39,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Table_24",
+        "RowCount": 38,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "Tbl_Transfer_Employee_Component",
+        "RowCount": 38,
+        "ColumnCount": 58
+      },
+      {
+        "TableName": "tbl_Reimbursement",
+        "RowCount": 38,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Mail_Configuration",
+        "RowCount": 38,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tempdelayedinput",
+        "RowCount": 38,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_ETDS_State",
+        "RowCount": 37,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "MReportMasterTbl",
+        "RowCount": 36,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Allow_Reprocess",
+        "RowCount": 36,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "CreditNoteData",
+        "RowCount": 36,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tmp_Forcast",
+        "RowCount": 34,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "clientmapp1$_delete",
+        "RowCount": 34,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_TDS_Slab",
+        "RowCount": 33,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "AAAA_A_delete",
+        "RowCount": 32,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Table_25",
+        "RowCount": 32,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "invoicebackendupd",
+        "RowCount": 32,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tmp_tbl_Cost_Center_Mapping",
+        "RowCount": 31,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Compilance_Wage_Regiter_Form_Number",
+        "RowCount": 30,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "A_GstDiffInvoice_delete",
+        "RowCount": 29,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_LWF_Slab",
+        "RowCount": 29,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Salary_Transfer_Bank_Holidays",
+        "RowCount": 29,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tempgroupdetail",
+        "RowCount": 29,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Reissue_Bank_Details",
+        "RowCount": 28,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tmp_company_adds_Map",
+        "RowCount": 27,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "TEMP_EXCEL_SITE",
+        "RowCount": 27,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_ESI_Location_Slab_Detail",
+        "RowCount": 26,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "ram",
+        "RowCount": 26,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tempUploadData_L",
+        "RowCount": 25,
+        "ColumnCount": 106
+      },
+      {
+        "TableName": "mis03group",
+        "RowCount": 25,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_state_mv",
+        "RowCount": 24,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tempUploadData_SUb",
+        "RowCount": 24,
+        "ColumnCount": 49
+      },
+      {
+        "TableName": "UnPaidInvoiceSummary",
+        "RowCount": 24,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "POBACKENDUPDATE",
+        "RowCount": 24,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Legal_Entity_Mapping",
+        "RowCount": 23,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "temprudra",
+        "RowCount": 22,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_companyprovidentfund",
+        "RowCount": 21,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "LocationWiseDSO",
+        "RowCount": 21,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Temp_Data",
+        "RowCount": 21,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_Payfrequency_Arrear",
+        "RowCount": 20,
+        "ColumnCount": 27
+      },
+      {
+        "TableName": "LoanData",
+        "RowCount": 20,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_MIS_SBU_Summary",
+        "RowCount": 20,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "Temp_SalaryReleaseRequest",
+        "RowCount": 20,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_Loan_Type",
+        "RowCount": 20,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_InvoiceType",
+        "RowCount": 20,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "backendcompany_delete",
+        "RowCount": 19,
+        "ColumnCount": 74
+      },
+      {
+        "TableName": "ComplianceReportNamesTbl_delete",
+        "RowCount": 19,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "Temp_tbl_Invoice_Backup",
+        "RowCount": 18,
+        "ColumnCount": 79
+      },
+      {
+        "TableName": "tbl_Increment_Arrear_Transaction_123",
+        "RowCount": 18,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "temp_Paycode",
+        "RowCount": 18,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "MasterChangeRequest",
+        "RowCount": 18,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tmp_zonetag",
+        "RowCount": 16,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tempUploadDatamuthu",
+        "RowCount": 15,
+        "ColumnCount": 84
+      },
+      {
+        "TableName": "temp_NewJoineeSalary_Delete1",
+        "RowCount": 15,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_Transfer_Letter",
+        "RowCount": 15,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "temp_PART5",
+        "RowCount": 14,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "temp_PART3",
+        "RowCount": 14,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Tax_Remittance",
+        "RowCount": 13,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "ZoneWiseDSO",
+        "RowCount": 13,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Temp_LastMonthAccruals",
+        "RowCount": 13,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_PayFrequency_Arrear",
+        "RowCount": 13,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "Tbl_Salary_Process_Partial_Initiate",
+        "RowCount": 13,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_ESI_Location_Slab",
+        "RowCount": 13,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Temp_InvoiceCollection",
+        "RowCount": 13,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "Temp_NetPaySummary",
+        "RowCount": 12,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "Tbl_MonthList",
+        "RowCount": 12,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "OspaceEmployeeAllowances_Stg",
+        "RowCount": 12,
+        "ColumnCount": 27
+      },
+      {
+        "TableName": "tbl_ESI_Block_Details",
+        "RowCount": 12,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "DSOCalculation_delete",
+        "RowCount": 12,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_payFreq",
+        "RowCount": 12,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "Tbl_Months",
+        "RowCount": 12,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Group_Detail_temp",
+        "RowCount": 12,
+        "ColumnCount": 37
+      },
+      {
+        "TableName": "Outstanding_Ageing_CFO",
+        "RowCount": 12,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_ETDS_Quarter",
+        "RowCount": 12,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Temp_PayrollPaycodes",
+        "RowCount": 12,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Invoice_Aeging",
+        "RowCount": 12,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tempempid",
+        "RowCount": 12,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "temp_HPayroll",
+        "RowCount": 12,
+        "ColumnCount": 43
+      },
+      {
+        "TableName": "temp_Attendance",
+        "RowCount": 11,
+        "ColumnCount": 32
+      },
+      {
+        "TableName": "CFODSO",
+        "RowCount": 11,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "AAAA_B_delete",
+        "RowCount": 11,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_FREIMB",
+        "RowCount": 11,
+        "ColumnCount": 99
+      },
+      {
+        "TableName": "Tbl_Corporate_Bank",
+        "RowCount": 11,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "temp_tbl_Pay_Frequency",
+        "RowCount": 11,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Relationship",
+        "RowCount": 10,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Invoice_Ageing_Location",
+        "RowCount": 10,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_pay_1",
+        "RowCount": 10,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tbl_PTCircle",
+        "RowCount": 10,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Release_Process_Invoice",
+        "RowCount": 10,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tblEmployee_M",
+        "RowCount": 10,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_AccNoDeviationDetails",
+        "RowCount": 10,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "Temp_Batchid",
+        "RowCount": 10,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_EmployeeHistory",
+        "RowCount": 10,
+        "ColumnCount": 76
+      },
+      {
+        "TableName": "tmp_tbl_Company_Address_Detail_1",
+        "RowCount": 10,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tmp_OtherIncome1",
+        "RowCount": 9,
+        "ColumnCount": 44
+      },
+      {
+        "TableName": "tbl_Bonus_Release_Process_Invoice",
+        "RowCount": 9,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_ESI_Slab_Detail",
+        "RowCount": 9,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_ESI_Slab",
+        "RowCount": 9,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_LTA_Block",
+        "RowCount": 9,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Financial_Year",
+        "RowCount": 9,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tempUploadData_250120",
+        "RowCount": 9,
+        "ColumnCount": 35
+      },
+      {
+        "TableName": "tbl_MIS_Freezed_PayPeriod",
+        "RowCount": 9,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Partial_Release_Process_Invoice",
+        "RowCount": 9,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_DynamicEmployeeSearch",
+        "RowCount": 9,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_PT_HalfYearly_Quarterly_Monthly_Type",
+        "RowCount": 9,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Invoice_Ageing_CFO",
+        "RowCount": 8,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Company_Paycode_Pick_From",
+        "RowCount": 8,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Region",
+        "RowCount": 8,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_NIPartial_Release_Process",
+        "RowCount": 8,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Temp_Site",
+        "RowCount": 8,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_Input_status",
+        "RowCount": 8,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_NIBonus_Release_Process",
+        "RowCount": 8,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Release_Process",
+        "RowCount": 8,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "ImportTable",
+        "RowCount": 7,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Dynamicdropdown",
+        "RowCount": 7,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "TBL_Continent",
+        "RowCount": 7,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Salary_Release_Process_Sheet_Count",
+        "RowCount": 7,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "CompailanceAddres",
+        "RowCount": 7,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_Employee",
+        "RowCount": 7,
+        "ColumnCount": 80
+      },
+      {
+        "TableName": "InputUploadSelectList",
+        "RowCount": 6,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Salary_Release_Process_Sheet_Count_Partial_Release",
+        "RowCount": 6,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Release_Process_Samsung_Invoice",
+        "RowCount": 6,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Salary_Release_Process_Sheet_Count_Bonus_Release",
+        "RowCount": 6,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Leave_Opening_Balance_Details",
+        "RowCount": 6,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "temp_LOCKPAYPERIOD",
+        "RowCount": 6,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Service_Charge_Master",
+        "RowCount": 6,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Legal_Entity",
+        "RowCount": 6,
+        "ColumnCount": 41
+      },
+      {
+        "TableName": "tbl_Upload_Type",
+        "RowCount": 6,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_CompanyGroup",
+        "RowCount": 6,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "DownloadMaster",
+        "RowCount": 6,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Temp_PayCodes",
+        "RowCount": 6,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_PayType",
+        "RowCount": 5,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Temp_EmployeeBankWiseSummary_Final",
+        "RowCount": 5,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Assets",
+        "RowCount": 5,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "CustomTable2HTML_temp_delete",
+        "RowCount": 5,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "Temp_AfterFreezInvoiceData",
+        "RowCount": 5,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "tbl_Invoice_Ageing_Samsung",
+        "RowCount": 5,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tempUploadData_D",
+        "RowCount": 5,
+        "ColumnCount": 114
+      },
+      {
+        "TableName": "temp_HoldEmployee",
+        "RowCount": 5,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "ComplianceUserLoginTbl_delete",
+        "RowCount": 5,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_RpafUpdation",
+        "RowCount": 5,
+        "ColumnCount": 28
+      },
+      {
+        "TableName": "temp_paytransaction",
+        "RowCount": 4,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "tbl_Employee_Family_Detail",
+        "RowCount": 4,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "AccessLevel",
+        "RowCount": 4,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Perk",
+        "RowCount": 4,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Company_Service_Tax_Detail",
+        "RowCount": 4,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tempData",
+        "RowCount": 4,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Service_Charge_Type",
+        "RowCount": 4,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tblDepartment_M",
+        "RowCount": 4,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Remittancetypedropdown",
+        "RowCount": 4,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "POP_EPS_UPDATE",
+        "RowCount": 4,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tempUploadData_1",
+        "RowCount": 4,
+        "ColumnCount": 27
+      },
+      {
+        "TableName": "ClientMasterTbl_delete",
+        "RowCount": 4,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Table_8",
+        "RowCount": 3,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "TempColumnName",
+        "RowCount": 3,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "Temp_ChallanNumber",
+        "RowCount": 3,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tbl_InvoiceTypeMaster",
+        "RowCount": 3,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_Service_Charge_Slab_Items",
+        "RowCount": 3,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Partial_Salary_Release_Process_Sheet_Count_NonInvoice",
+        "RowCount": 3,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Page_Type",
+        "RowCount": 3,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Service_Charge_Slab_Inner_Items",
+        "RowCount": 3,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "temptable_aaaa",
+        "RowCount": 3,
+        "ColumnCount": 50
+      },
+      {
+        "TableName": "Temp_PayrollCtcFinal",
+        "RowCount": 3,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "bktemp_delete",
+        "RowCount": 3,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Cheque_Allocation",
+        "RowCount": 3,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Bonus_Salary_Release_Process_Sheet_Count_NonInvoice",
+        "RowCount": 3,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Criteria_Type",
+        "RowCount": 3,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Salary_Release_Process_Sheet_Count_NonInvoice",
+        "RowCount": 3,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_PayRegisterBuilderType",
+        "RowCount": 3,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Tbl_Arrear_Pay_Type",
+        "RowCount": 3,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "Temp_tbl_Tax_Remittance",
+        "RowCount": 3,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Client_PO_Mapping",
+        "RowCount": 3,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Sap_Accounting_Register_Invoice_Vijay",
+        "RowCount": 3,
+        "ColumnCount": 34
+      },
+      {
+        "TableName": "temp_NewJoinetemp_Attendancee",
+        "RowCount": 2,
+        "ColumnCount": 57
+      },
+      {
+        "TableName": "tbl_PTD",
+        "RowCount": 2,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Company_Service_Charge",
+        "RowCount": 2,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "temp_TaxDeclActual",
+        "RowCount": 2,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "temp_Employee_natraj",
+        "RowCount": 2,
+        "ColumnCount": 79
+      },
+      {
+        "TableName": "Temp_GstInvoiceInitiate",
+        "RowCount": 2,
+        "ColumnCount": 17
+      },
+      {
+        "TableName": "tmp_ITAdjustment",
+        "RowCount": 2,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "Table_22",
+        "RowCount": 2,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_Vertical",
+        "RowCount": 2,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tempUploadData29",
+        "RowCount": 2,
+        "ColumnCount": 91
+      },
+      {
+        "TableName": "InputUploadSelectList_Revised",
+        "RowCount": 2,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Reimbursement_Calender",
+        "RowCount": 2,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Temp_ReleaseEmployeeSalary",
+        "RowCount": 2,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_OTRD",
+        "RowCount": 2,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Billable_Type",
+        "RowCount": 2,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_PART6",
+        "RowCount": 2,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_PART4",
+        "RowCount": 2,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_attendance1",
+        "RowCount": 2,
+        "ColumnCount": 57
+      },
+      {
+        "TableName": "tbl_QuessLegalEntity",
+        "RowCount": 2,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tax",
+        "RowCount": 2,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Declaration_Type",
+        "RowCount": 2,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Access_Type",
+        "RowCount": 2,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Temp_InvoiceEmployeeDetail",
+        "RowCount": 2,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "temp1",
+        "RowCount": 2,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "tbl_input_type",
+        "RowCount": 2,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_tbl_Other_Income",
+        "RowCount": 1,
+        "ColumnCount": 33
+      },
+      {
+        "TableName": "temp_Axpert_id",
+        "RowCount": 1,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Temp_POInitiationDetail",
+        "RowCount": 1,
+        "ColumnCount": 50
+      },
+      {
+        "TableName": "CompanyMasterTbl_delete",
+        "RowCount": 1,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Temp_InvoiceInitiate",
+        "RowCount": 1,
+        "ColumnCount": 45
+      },
+      {
+        "TableName": "Temp_POInitiationDetailAnant",
+        "RowCount": 1,
+        "ColumnCount": 50
+      },
+      {
+        "TableName": "tbl_Billing_Pay_Frequency",
+        "RowCount": 1,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "PayrollLoginTbl",
+        "RowCount": 1,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Temp_SplitData",
+        "RowCount": 1,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "TEMPDUMMY",
+        "RowCount": 1,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tempUploadData",
+        "RowCount": 1,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "tbl_Revised_input_type",
+        "RowCount": 1,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_PrevEmpTaxDet",
+        "RowCount": 1,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "tempUploadData_260220",
+        "RowCount": 1,
+        "ColumnCount": 96
+      },
+      {
+        "TableName": "tbl_Parameter",
+        "RowCount": 1,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Company_Contact_Detail",
+        "RowCount": 1,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "temp_HRA_Calculation",
+        "RowCount": 1,
+        "ColumnCount": 22
+      },
+      {
+        "TableName": "tbl_Gratuity_Block",
+        "RowCount": 1,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "temp_Attendance_Arrear",
+        "RowCount": 1,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_SOA_Formats",
+        "RowCount": 1,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Billing_Pay_Frequency_Detail",
+        "RowCount": 1,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "EXCELDATA_delete",
+        "RowCount": 1,
+        "ColumnCount": 84
+      },
+      {
+        "TableName": "tbl_Leave_Type",
+        "RowCount": 1,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Medical_Block",
+        "RowCount": 1,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_tbl_Employee_Loan",
+        "RowCount": 1,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "TempSelfOccupied",
+        "RowCount": 1,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "temp_LeaveTaken",
+        "RowCount": 1,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "temp_lop_adjustment",
+        "RowCount": 1,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tmp_InvoiceSalaryApproval",
+        "RowCount": 1,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "SalaryProcessinitiate",
+        "RowCount": 1,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Service_Tax",
+        "RowCount": 1,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Employee_Education_Detail",
+        "RowCount": 1,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "GstInvoice_Deleted_delete",
+        "RowCount": 1,
+        "ColumnCount": 76
+      },
+      {
+        "TableName": "tbl_Pt_Block",
+        "RowCount": 1,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "temp_pay_transaction_delete",
+        "RowCount": 1,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_PfCode",
+        "RowCount": 1,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_ESI_Block_Master",
+        "RowCount": 1,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tempUploadData_String1",
+        "RowCount": 1,
+        "ColumnCount": 52
+      },
+      {
+        "TableName": "tbl_Conveyance_Criteria",
+        "RowCount": 1,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Insurance_Detail",
+        "RowCount": 1,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Insurance",
+        "RowCount": 1,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "TEMP_OspaceEmployeeIMP",
+        "RowCount": 0,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "NeedToAddOTDataRetainer",
+        "RowCount": 0,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Company_Service_Charge_Type",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Holiday_Master",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_PO_Balance_Transfer",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "Testtbl",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tempInvoicenumbersGST",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "TempGroupNames",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Employee_Special_Achievement_Audit",
+        "RowCount": 0,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "temp_attendance1_GTS",
+        "RowCount": 0,
+        "ColumnCount": 56
+      },
+      {
+        "TableName": "tbl_Purchase_Request",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Employee_STG_delete",
+        "RowCount": 0,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "temp_tbl_Pay_Frequency_Detail_1",
+        "RowCount": 0,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "ptlocationemp",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Flexi_Rule",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Scheduler_Employee",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "QspaceNewBreak_STG",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Vertical_Type",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "incdelete_delete",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_SP_Execution_Time",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_PART1",
+        "RowCount": 0,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Holiday_Detail",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Component_Detail",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "bnetpay",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Company_Address_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 31
+      },
+      {
+        "TableName": "Temp_QsiteInfo",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Scheduler",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Company_Service_Charge_Audit",
+        "RowCount": 0,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tempCR",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Salary",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tmp_Income_Loss_On_House_Property_Integration",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "temp_error_message",
+        "RowCount": 0,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Gratuity",
+        "RowCount": 0,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "temp_LOP",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "Ttax",
+        "RowCount": 0,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Employee_Special_Achievement",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Temp_Group_Detail",
+        "RowCount": 0,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "tbl_Conveyance_Detail",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "RevisedTemp",
+        "RowCount": 0,
+        "ColumnCount": 80
+      },
+      {
+        "TableName": "tempUploadData_String",
+        "RowCount": 0,
+        "ColumnCount": 50
+      },
+      {
+        "TableName": "QspaceNewJonee_stg",
+        "RowCount": 0,
+        "ColumnCount": 53
+      },
+      {
+        "TableName": "NeedToAddTaxRSept",
+        "RowCount": 0,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "TRemittanceAdd06Nov",
+        "RowCount": 0,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "tbl_Module",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Employee_Insurance_Detail",
+        "RowCount": 0,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "tbl_Cheque_Allocation_partial",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "temp_QsitePaySlip",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Operator",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Invoice_Bank_Non_Advice_Approvals_Bonus_Release",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Children_Education_Allowance_Criteria",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Temp_InvoiceNumberString",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "AIMSACTUAL_delete",
+        "RowCount": 0,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "UnPaidInvoice_Qzone",
+        "RowCount": 0,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "Temp_Data11",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "NeedtoAddDataOct",
+        "RowCount": 0,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "Qspaceautoadhoc_stg",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "AdditonDatasantosh_delete",
+        "RowCount": 0,
+        "ColumnCount": 26
+      },
+      {
+        "TableName": "tbl_Sap_Invoice_Book_Register_Test",
+        "RowCount": 0,
+        "ColumnCount": 43
+      },
+      {
+        "TableName": "tbl_Conveyance",
+        "RowCount": 0,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_Release_Employee_Salary",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Flexi_Rule_Detail",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "Tbl_Emp_Invoice_NetPaysummary_Request",
+        "RowCount": 0,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "tblPayProcessParameterJobLog",
+        "RowCount": 0,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "tbl_Invoice_Release_Status",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tmp_tbl_Company_Address_Detail",
+        "RowCount": 0,
+        "ColumnCount": 18
+      },
+      {
+        "TableName": "tbl_Salary_Release_Batch",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tttt",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "CompanyContractDate_delete",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Employee_Education_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "TBL_GROUPCHANGES",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Service_Charge_Slab",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Hold_Employee_Salary",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Client_PO_Employee_Mapping",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tmp_Previous_Employment_Tax_Details_Integration",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_client_reference",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Employee_Previous_Employment_Detail",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Bank_Advice_Approver",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "branchdata_delete",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "abc_delete",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "GstInvoiceToBankInvoice",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_User_Group",
+        "RowCount": 0,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "Table_18",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Vendor_Non_Deduction",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_PO_Topup",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Client_EmailNotification",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_empolyeeActualDetail",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Temp_POPEmployee_Stg",
+        "RowCount": 0,
+        "ColumnCount": 38
+      },
+      {
+        "TableName": "incrementdelete",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "QSITE_EMPMonthWiseInput",
+        "RowCount": 0,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "tbl_Children_Education_Allowance_Detail",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Company_Contract_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "Sheet3$",
+        "RowCount": 0,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Medical_Bill",
+        "RowCount": 0,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_User_Secret_Question_Answer",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tbl_Medical_Bill_Detail",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Temp_QsiteInfo2",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "QspacePayperiodupdation_stg",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Invoice_Type",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Bonus_Release",
+        "RowCount": 0,
+        "ColumnCount": 61
+      },
+      {
+        "TableName": "tbl_REIMB",
+        "RowCount": 0,
+        "ColumnCount": 98
+      },
+      {
+        "TableName": "table_ACTUAL",
+        "RowCount": 0,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tbl_CasheLoanDetailUploadLog",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "temp_employeeforitsheet",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "Temp_QsiteInfo1",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Invoice_Bank_Advice_Approvals_Bonus_Release",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tmp_actual_declaration_integration",
+        "RowCount": 0,
+        "ColumnCount": 7
+      },
+      {
+        "TableName": "RPA_BankUserLoginDetail",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Employee_Insurance_Audit",
+        "RowCount": 0,
+        "ColumnCount": 20
+      },
+      {
+        "TableName": "tbl_Salary_Batch_Invoice_Association",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Salary_Detail",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "NeedToAddTaxR",
+        "RowCount": 0,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "Table_3",
+        "RowCount": 0,
+        "ColumnCount": 30
+      },
+      {
+        "TableName": "Natraj_demo1",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Employee_Insurance",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "NEEDTOREPLACEGROSSsantosh",
+        "RowCount": 0,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "IncDelete_Sa_delete",
+        "RowCount": 0,
+        "ColumnCount": 24
+      },
+      {
+        "TableName": "tbl_SAP_Book_Closure",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_BankGstInvoice",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Sheet26$",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tmp_MinimumWages",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "TRemittanceAdd07Nov",
+        "RowCount": 0,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "tbl_Full_Final_Settlement",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Other_Detail",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "QSpaceLotnumber_Stag",
+        "RowCount": 0,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "tmp_LTA_Declaration_Integration",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "tmp_HRA_Calculation_Integration",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "Sheet25$",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Generation_Batch_Invoice",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Employee_Invoice_Mapping1",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "PurchaseOrderDetail",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Computation_Rule_Category",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "tbl_Client_TDS_Slab",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tmp_QsiteHPayroll",
+        "RowCount": 0,
+        "ColumnCount": 508
+      },
+      {
+        "TableName": "tbl_Employee_Insurance_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 25
+      },
+      {
+        "TableName": "tbl_Release_Employee_Salary_Detail",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "check1_delete",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "tbl_Invoice1",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Horbour_Avon_Designation_Master_Site_Name",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "sysdiagrams",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Statutory_Freezing",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Employee_Previous_Employment_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Invoice_Audit",
+        "RowCount": 0,
+        "ColumnCount": 104
+      },
+      {
+        "TableName": "tbl_Company_Contact_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 13
+      },
+      {
+        "TableName": "natrajtest1",
+        "RowCount": 0,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "temp_PART2",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "Tbl_Bank_Non_Invoice_Bonus_Release",
+        "RowCount": 0,
+        "ColumnCount": 61
+      },
+      {
+        "TableName": "WorkOrderDetail",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "GstInvoiceToBankInvoiceString",
+        "RowCount": 0,
+        "ColumnCount": 5
+      },
+      {
+        "TableName": "tbl_Increment_Arrear_Transaction_Audit",
+        "RowCount": 0,
+        "ColumnCount": 21
+      },
+      {
+        "TableName": "tbl_Billable_Days",
+        "RowCount": 0,
+        "ColumnCount": 27
+      },
+      {
+        "TableName": "Sheet27$",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Company_Service_Charge_Master",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "temp_error1",
+        "RowCount": 0,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "tbl_Children_Education_Allowance",
+        "RowCount": 0,
+        "ColumnCount": 16
+      },
+      {
+        "TableName": "tbl_Invoice_Initiate",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "Sheet2$",
+        "RowCount": 0,
+        "ColumnCount": 1
+      },
+      {
+        "TableName": "Table_9",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Company_Service_Tax_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "tbl_Hold_Employee_Salary_Detail",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tmp_sitemaster",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Login_Details",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "PO_InvoiceCulturePaycode",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Arrear_PaySlip",
+        "RowCount": 0,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_LeaveBalanceClients",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "tbl_Secret_Question",
+        "RowCount": 0,
+        "ColumnCount": 2
+      },
+      {
+        "TableName": "TB_FFTS_EMP_FREEFORM_ENTRY_QPAY",
+        "RowCount": 0,
+        "ColumnCount": 37
+      },
+      {
+        "TableName": "tbl_Company_Bank_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 12
+      },
+      {
+        "TableName": "QpayAttendance_stg",
+        "RowCount": 0,
+        "ColumnCount": 23
+      },
+      {
+        "TableName": "tbl_Employee_Family_Detail_Audit",
+        "RowCount": 0,
+        "ColumnCount": 15
+      },
+      {
+        "TableName": "tbl_Emp_shilpa",
+        "RowCount": 0,
+        "ColumnCount": 3
+      },
+      {
+        "TableName": "Sheet28$",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "tbl_Vendor_Deduction",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "tbl_Insurance_Type",
+        "RowCount": 0,
+        "ColumnCount": 6
+      },
+      {
+        "TableName": "bkOFFER_PAY_STRUCTURE",
+        "RowCount": 0,
+        "ColumnCount": 14
+      },
+      {
+        "TableName": "tbl_PO_Balance",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "tbl_Admin_Pay_Process",
+        "RowCount": 0,
+        "ColumnCount": 9
+      },
+      {
+        "TableName": "Query_9620727347",
+        "RowCount": 0,
+        "ColumnCount": 8
+      },
+      {
+        "TableName": "DDLEvents_delete",
+        "RowCount": 0,
+        "ColumnCount": 11
+      },
+      {
+        "TableName": "QSRevision_stg",
+        "RowCount": 0,
+        "ColumnCount": 19
+      },
+      {
+        "TableName": "Table_7",
+        "RowCount": 0,
+        "ColumnCount": 10
+      },
+      {
+        "TableName": "tbl_Duplicate_Employee_Code",
+        "RowCount": 0,
+        "ColumnCount": 4
+      },
+      {
+        "TableName": "temp_OtherIncome",
+        "RowCount": 0,
+        "ColumnCount": 68
+      }
+    ]
+  }
