@@ -3021,7 +3021,7 @@
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "app-card", 42);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "app-card", 45);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 43);
 
@@ -3051,7 +3051,7 @@
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "app-card", 42);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "app-card", 46);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 43);
 
@@ -3185,7 +3185,7 @@
         selectors: [["app-data-source"]],
         decls: 151,
         vars: 17,
-        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "feather", "icon-cloud-off"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], [1, "col-lg-3", "col-md-6", "col-sm-12", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "col-4"], ["src", "assets/images/dbicons/sql.png", "alt", "", 2, "float", "right"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["cardClass", "support-bar overflow-hidden", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter"], ["src", "assets/images/dbicons/sap.png", "alt", "", 2, "float", "right"], ["src", "assets/images/dbicons/postgres.png", "alt", "", 2, "float", "right"], ["class", "col-md-12", 4, "ngIf"], ["cardTitle", "Top Table Stats", "cardClass", "card-datatable", 3, "options"], [1, "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"]],
+        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "feather", "icon-cloud-off"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], [1, "col-lg-3", "col-md-6", "col-sm-12", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "col-4"], ["src", "assets/images/dbicons/sql.png", "alt", "", 2, "float", "right"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["cardClass", "support-bar overflow-hidden", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter"], ["src", "assets/images/dbicons/sap.png", "alt", "", 2, "float", "right"], ["src", "assets/images/dbicons/postgres.png", "alt", "", 2, "float", "right"], ["class", "col-md-12", 4, "ngIf"], ["cardTitle", "QPay Table Stats", "cardClass", "card-datatable", 3, "options"], [1, "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["cardTitle", "QString Table Stats", "cardClass", "card-datatable", 3, "options"], ["cardTitle", "SAP Table Stats", "cardClass", "card-datatable", 3, "options"]],
         template: function DataSourceComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
