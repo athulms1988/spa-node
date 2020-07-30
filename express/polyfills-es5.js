@@ -19141,7 +19141,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       __webpack_require__(
-      /*! D:\Code\DataProject-UI\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\es5-polyfills.js */
+      /*! /Users/A-8538/my-code/DataProject-UI/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
       "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js");
 
       __webpack_require__(
@@ -19149,7 +19149,7 @@
       "./node_modules/zone.js/dist/zone-legacy.js");
 
       module.exports = __webpack_require__(
-      /*! D:\Code\DataProject-UI\src\polyfills.ts */
+      /*! /Users/A-8538/my-code/DataProject-UI/src/polyfills.ts */
       "./src/polyfills.ts");
       /***/
     }
