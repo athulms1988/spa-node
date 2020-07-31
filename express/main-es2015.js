@@ -1443,7 +1443,7 @@ class DataMartComponent {
         console.log(datamart);
     }
     viewMartDetails(martId) {
-        this.martId = martId;
+        this.martId ? this.martId = 0 : this.martId = martId;
     }
 }
 DataMartComponent.ɵfac = function DataMartComponent_Factory(t) { return new (t || DataMartComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_9__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_9__["ActivatedRoute"])); };
@@ -2137,7 +2137,7 @@ class DataSourceComponent {
         this.dtColumnsReorderOptionsQPay = {};
         this.dtColumnsReorderOptionsQString = {};
         this.dtColumnsReorderOptionsSAP = {};
-        this.currentTable = "QPay";
+        this.currentTable = '';
         this.showDB = false;
         this.supportChartData1 = _chart_support_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["SupportChartData1"].supportChartData;
         this.supportChartData2 = _chart_support_chart_data_2__WEBPACK_IMPORTED_MODULE_2__["SupportChartData2"].supportChartData;
@@ -2145,7 +2145,7 @@ class DataSourceComponent {
         this.supportChartData4 = _chart_support_chart_data_4__WEBPACK_IMPORTED_MODULE_4__["SupportChartData4"].supportChartData;
     }
     switchDataTable(type) {
-        this.currentTable = type;
+        this.currentTable ? this.currentTable = '' : this.currentTable = type;
     }
     navigate(path) {
         this.router.navigate([path]);
@@ -2217,7 +2217,7 @@ class DataSourceComponent {
             },
             responsive: true
         };
-        this.currentTable = 'QPay';
+        this.currentTable = '';
     }
 }
 DataSourceComponent.ɵfac = function DataSourceComponent_Factory(t) { return new (t || DataSourceComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_5__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_5__["ActivatedRoute"])); };
@@ -2907,7 +2907,6 @@ class DataStreamersComponent {
         this.areaChartData1 = _chart_area_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["AreaChartData"].areaChart1;
         this.barChartData1 = _chart_bar_chart_data_1__WEBPACK_IMPORTED_MODULE_2__["BarChartData"].barChart1;
     }
-    ;
     navigate(path) {
         this.router.navigate([path]);
     }
@@ -3076,7 +3075,7 @@ class DataStreamersComponent {
         };
     }
     viewStreamDetails(streamId) {
-        this.streamId = streamId;
+        this.streamId ? this.streamId = 0 : this.streamId = streamId;
         switch (this.streamId) {
             case 1:
                 this.areaChartData1 = _chart_area_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["AreaChartData"].areaChart1;
@@ -6299,7 +6298,7 @@ class BreadcrumbComponent {
             }
         });
         this.navigationList = result;
-        this.titleService.setTitle(title + ' | Able Pro Angular 8+ Admin Template');
+        this.titleService.setTitle(title + ' | IQ');
     }
 }
 BreadcrumbComponent.ɵfac = function BreadcrumbComponent_Factory(t) { return new (t || BreadcrumbComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_layout_admin_navigation_navigation__WEBPACK_IMPORTED_MODULE_2__["NavigationItem"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__["Title"])); };

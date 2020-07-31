@@ -2152,7 +2152,7 @@
         }, {
           key: "viewMartDetails",
           value: function viewMartDetails(martId) {
-            this.martId = martId;
+            this.martId ? this.martId = 0 : this.martId = martId;
           }
         }]);
 
@@ -3456,7 +3456,7 @@
           this.dtColumnsReorderOptionsQPay = {};
           this.dtColumnsReorderOptionsQString = {};
           this.dtColumnsReorderOptionsSAP = {};
-          this.currentTable = "QPay";
+          this.currentTable = '';
           this.showDB = false;
           this.supportChartData1 = _chart_support_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["SupportChartData1"].supportChartData;
           this.supportChartData2 = _chart_support_chart_data_2__WEBPACK_IMPORTED_MODULE_2__["SupportChartData2"].supportChartData;
@@ -3467,7 +3467,7 @@
         _createClass(DataSourceComponent, [{
           key: "switchDataTable",
           value: function switchDataTable(type) {
-            this.currentTable = type;
+            this.currentTable ? this.currentTable = '' : this.currentTable = type;
           }
         }, {
           key: "navigate",
@@ -3545,7 +3545,7 @@
               },
               responsive: true
             };
-            this.currentTable = 'QPay';
+            this.currentTable = '';
           }
         }]);
 
@@ -5011,7 +5011,7 @@
         }, {
           key: "viewStreamDetails",
           value: function viewStreamDetails(streamId) {
-            this.streamId = streamId;
+            this.streamId ? this.streamId = 0 : this.streamId = streamId;
 
             switch (this.streamId) {
               case 1:
@@ -11282,7 +11282,7 @@
               }
             });
             this.navigationList = result;
-            this.titleService.setTitle(title + ' | Able Pro Angular 8+ Admin Template');
+            this.titleService.setTitle(title + ' | IQ');
           }
         }]);
 
