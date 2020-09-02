@@ -2303,7 +2303,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "h4", 17);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "3");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "4");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2591,13 +2591,13 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](121, "h3", 35);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](122, "Minimum Wages");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](122, "Finance");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "span", 36);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "37 Attributes");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "54 Attributes");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2611,7 +2611,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "h4", 38);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "-");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "24,52,55,20,320");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2634,7 +2634,7 @@
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "div", 32);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function DataMartComponent_Template_div_click_132_listener() {
-              return ctx.viewMartDetails(3);
+              return ctx.viewMartDetails(4);
             });
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](133, "app-card", 33);
@@ -2643,13 +2643,13 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "h3", 35);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](136, "Finance");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](136, "Minimum Wages");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](137, "span", 36);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](138, "54 Attributes");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](138, "37 Attributes");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2663,7 +2663,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](142, "h4", 38);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](143, "24,52,55,20,320");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](143, "-");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2721,7 +2721,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](26, _c0, ctx.martId == 3));
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](26, _c0, ctx.martId == 4));
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](13);
 
@@ -3135,7 +3135,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("dtOptions", ctx_r2.dtColumnsReorderOptionsMinimumWages);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("dtOptions", ctx_r2.dtColumnsReorderOptionsSimplience);
         }
       }
 
@@ -3258,7 +3258,7 @@
 
             var ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
-            return ctx_r6.switchDataTable("MinimumWages");
+            return ctx_r6.switchDataTable("Simplience");
           });
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "app-card", 39);
@@ -3271,7 +3271,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "h3", 33);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Minimum Wages");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Simplience");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -3479,7 +3479,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](17, _c0, ctx_r0.currentTable == "MinimumWages"));
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](17, _c0, ctx_r0.currentTable == "Simplience"));
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](18);
 
@@ -3495,7 +3495,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r0.currentTable == "MinimumWages");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r0.currentTable == "Simplience");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
@@ -3512,7 +3512,7 @@
           this.dtColumnsReorderOptionsQPay = {};
           this.dtColumnsReorderOptionsQString = {};
           this.dtColumnsReorderOptionsSAP = {};
-          this.dtColumnsReorderOptionsMinimumWages = {};
+          this.dtColumnsReorderOptionsSimplience = {};
           this.currentTable = '';
           this.showDB = false;
           this.supportChartData1 = _chart_support_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["SupportChartData1"].supportChartData;
@@ -3581,8 +3581,8 @@
               },
               responsive: true
             };
-            this.dtColumnsReorderOptionsMinimumWages = {
-              ajax: 'fake-data/datatable-minimumwages.json',
+            this.dtColumnsReorderOptionsSimplience = {
+              ajax: 'fake-data/datatable-simplience.json',
               columns: [{
                 title: 'Table name',
                 data: 'TableName'
@@ -3639,7 +3639,7 @@
         selectors: [["app-data-source"]],
         decls: 76,
         vars: 10,
-        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "feather", "icon-cloud-off"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter", "ngClass", "click"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], ["class", "row", 4, "ngIf"], [1, "col-lg-3", "col-md-6", "col-sm-12", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "col-4"], ["src", "assets/images/dbicons/sql.png", "alt", "", 2, "float", "right"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["cardClass", "support-bar overflow-hidden", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], ["src", "assets/images/dbicons/sap.png", "alt", "", 2, "float", "right"], ["src", "assets/images/dbicons/postgres.png", "alt", "", 2, "float", "right"], ["class", "col-md-12", 4, "ngIf"], ["cardTitle", "QPay Table Stats", "cardClass", "card-datatable", 3, "options"], [1, "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["cardTitle", "MinimumWages Table Stats", "cardClass", "card-datatable", 3, "options"], ["cardTitle", "SAP Table Stats", "cardClass", "card-datatable", 3, "options"]],
+        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "feather", "icon-cloud-off"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter", "ngClass", "click"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], ["class", "row", 4, "ngIf"], [1, "col-lg-3", "col-md-6", "col-sm-12", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "col-4"], ["src", "assets/images/dbicons/sql.png", "alt", "", 2, "float", "right"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["cardClass", "support-bar overflow-hidden", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], ["src", "assets/images/dbicons/sap.png", "alt", "", 2, "float", "right"], ["src", "assets/images/dbicons/postgres.png", "alt", "", 2, "float", "right"], ["class", "col-md-12", 4, "ngIf"], ["cardTitle", "QPay Table Stats", "cardClass", "card-datatable", 3, "options"], [1, "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["cardTitle", "Simplience Table Stats", "cardClass", "card-datatable", 3, "options"], ["cardTitle", "SAP Table Stats", "cardClass", "card-datatable", 3, "options"]],
         template: function DataSourceComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
