@@ -1519,7 +1519,7 @@
       /*! @ng-bootstrap/ng-bootstrap */
       "./node_modules/@ng-bootstrap/ng-bootstrap/__ivy_ngcc__/fesm2015/ng-bootstrap.js");
 
-      function DataMartComponent_div_132_Template(rf, ctx) {
+      function DataMartComponent_div_146_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
 
@@ -1769,7 +1769,7 @@
         }
       }
 
-      function DataMartComponent_div_133_Template(rf, ctx) {
+      function DataMartComponent_div_147_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
 
@@ -2166,9 +2166,9 @@
       DataMartComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
         type: DataMartComponent,
         selectors: [["app-data-mart"]],
-        decls: 134,
-        vars: 23,
-        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", 3, "click"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "feather", "icon-cloud-off"], [1, "md-step", "active"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "text-muted", "m-b-0"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], [1, "col-3", "text-right"], [1, "feather", "icon-trending-up", "text-white", "f-16"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], [1, "col-sm-12", "col-md-4", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["class", "row", 4, "ngIf"], [1, "col-sm-12", "col-md-4"], ["cardTitle", "DataMart Employee", 3, "options"], ["chartID", "pie-chart-1", 3, "chartConfig"], [1, "col-sm-12", "col-md-3"], [3, "hidHeader"], [1, "card-body", "ng-star-inserted"], [1, "col-auto"], [1, "icon", "feather", "icon-award", "f-30", "text-c-blue"], [1, "col-sm-12", "col-md-5"], [1, "col-6"], ["ngbDropdown", "", 1, "dropdown", "float-right"], ["ngbDropdownToggle", "", "href", "javascript:", "data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", 1, "dropdown-toggle", "text-c-blue"], ["ngbDropdownMenu", "", 1, "dropdown-menu", "dropdown-menu-right"], ["href", "javascript:", 1, "dropdown-item"], [1, "mt-2", "mb-0"], [1, ""], [1, "mb-0", "mt-3"], [1, "text-success"], [1, "text-danger"], ["id", "hd-complited-ticket"], ["chartID", "chart-apex-completed-ticket", 3, "chartConfig"], ["cardTitle", "DataMart Finance", 3, "options"], ["chartID", "pie-chart-2", 3, "chartConfig"], [1, "col-sm-12", "col-md-8"], ["blockClass", "text-center", 3, "hidHeader"], [1, "row", "justify-content-between"], [1, "col-xl-3", "col-md-6", "m-t-10", "m-b-10"], [1, "row", "justify-content-center"], ["chartID", "sale-report-chart-1", 3, "chartConfig"], [1, "m-t-10", "m-b-0"], [1, "fa", "fa-caret-up", "text-c-green", "m-r-10"], ["chartID", "sale-report-chart-2", 3, "chartConfig"], [1, "fa", "fa-caret-down", "text-c-red", "m-r-10"], ["chartID", "sale-report-chart-3", 3, "chartConfig"], ["chartID", "sale-report-chart-4", 3, "chartConfig"], ["chartID", "sale-report-chart-5", 3, "chartConfig"], ["chartID", "sale-report-chart-6", 3, "chartConfig"]],
+        decls: 148,
+        vars: 28,
+        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", 3, "click"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "feather", "icon-cloud-off"], [1, "md-step", "active"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "text-muted", "m-b-0"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], [1, "col-3", "text-right"], [1, "feather", "icon-trending-up", "text-white", "f-16"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], [1, "col-sm-12", "col-md-3", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["class", "row", 4, "ngIf"], [1, "col-sm-12", "col-md-4"], ["cardTitle", "DataMart Employee", 3, "options"], ["chartID", "pie-chart-1", 3, "chartConfig"], [1, "col-sm-12", "col-md-3"], [3, "hidHeader"], [1, "card-body", "ng-star-inserted"], [1, "col-auto"], [1, "icon", "feather", "icon-award", "f-30", "text-c-blue"], [1, "col-sm-12", "col-md-5"], [1, "col-6"], ["ngbDropdown", "", 1, "dropdown", "float-right"], ["ngbDropdownToggle", "", "href", "javascript:", "data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", 1, "dropdown-toggle", "text-c-blue"], ["ngbDropdownMenu", "", 1, "dropdown-menu", "dropdown-menu-right"], ["href", "javascript:", 1, "dropdown-item"], [1, "mt-2", "mb-0"], [1, ""], [1, "mb-0", "mt-3"], [1, "text-success"], [1, "text-danger"], ["id", "hd-complited-ticket"], ["chartID", "chart-apex-completed-ticket", 3, "chartConfig"], ["cardTitle", "DataMart Finance", 3, "options"], ["chartID", "pie-chart-2", 3, "chartConfig"], [1, "col-sm-12", "col-md-8"], ["blockClass", "text-center", 3, "hidHeader"], [1, "row", "justify-content-between"], [1, "col-xl-3", "col-md-6", "m-t-10", "m-b-10"], [1, "row", "justify-content-center"], ["chartID", "sale-report-chart-1", 3, "chartConfig"], [1, "m-t-10", "m-b-0"], [1, "fa", "fa-caret-up", "text-c-green", "m-r-10"], ["chartID", "sale-report-chart-2", 3, "chartConfig"], [1, "fa", "fa-caret-down", "text-c-red", "m-r-10"], ["chartID", "sale-report-chart-3", 3, "chartConfig"], ["chartID", "sale-report-chart-4", 3, "chartConfig"], ["chartID", "sale-report-chart-5", 3, "chartConfig"], ["chartID", "sale-report-chart-6", 3, "chartConfig"]],
         template: function DataMartComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -2591,13 +2591,13 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](121, "h3", 35);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](122, "Finance");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](122, "Minimum Wages");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "span", 36);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "54 Attributes");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "37 Attributes");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2611,7 +2611,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "h4", 38);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "24,52,55,20,320");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "-");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2631,11 +2631,63 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "div", 32);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function DataMartComponent_Template_div_click_132_listener() {
+              return ctx.viewMartDetails(3);
+            });
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](133, "app-card", 33);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "div", 34);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "h3", 35);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](136, "Finance");
+
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](132, DataMartComponent_div_132_Template, 67, 5, "div", 39);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](137, "span", 36);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](133, DataMartComponent_div_133_Template, 63, 10, "div", 39);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](138, "54 Attributes");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](139, "div", 21);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](140, "div", 0);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "div", 37);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](142, "h4", 38);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](143, "24,52,55,20,320");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](144, "span");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](145, "Records");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](146, DataMartComponent_div_146_Template, 67, 5, "div", 39);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](147, DataMartComponent_div_147_Template, 63, 10, "div", 39);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -2657,15 +2709,19 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](20);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](17, _c0, ctx.martId == 1));
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](20, _c0, ctx.martId == 1));
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](19, _c0, ctx.martId == 2));
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](22, _c0, ctx.martId == 2));
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](21, _c0, ctx.martId == 3));
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](24, _c0, ctx.martId == 3));
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](14);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](26, _c0, ctx.martId == 3));
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](13);
 
@@ -3079,7 +3135,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("dtOptions", ctx_r2.dtColumnsReorderOptionsQString);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("dtOptions", ctx_r2.dtColumnsReorderOptionsMinimumWages);
         }
       }
 
@@ -3202,7 +3258,7 @@
 
             var ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
 
-            return ctx_r6.switchDataTable("QString");
+            return ctx_r6.switchDataTable("MinimumWages");
           });
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "app-card", 39);
@@ -3215,7 +3271,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "h3", 33);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "QString");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Minimum Wages");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -3231,7 +3287,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "span", 36);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "660 Tables");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "1 Table");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -3245,7 +3301,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "h4", 38);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "35,56,08,013");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "-");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -3423,7 +3479,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](17, _c0, ctx_r0.currentTable == "QString"));
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true)("isCardFooter", true)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](17, _c0, ctx_r0.currentTable == "MinimumWages"));
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](18);
 
@@ -3439,7 +3495,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r0.currentTable == "QString");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r0.currentTable == "MinimumWages");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
@@ -3456,6 +3512,7 @@
           this.dtColumnsReorderOptionsQPay = {};
           this.dtColumnsReorderOptionsQString = {};
           this.dtColumnsReorderOptionsSAP = {};
+          this.dtColumnsReorderOptionsMinimumWages = {};
           this.currentTable = '';
           this.showDB = false;
           this.supportChartData1 = _chart_support_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["SupportChartData1"].supportChartData;
@@ -3524,6 +3581,27 @@
               },
               responsive: true
             };
+            this.dtColumnsReorderOptionsMinimumWages = {
+              ajax: 'fake-data/datatable-minimumwages.json',
+              columns: [{
+                title: 'Table name',
+                data: 'TableName'
+              }, {
+                title: 'Number of attributes',
+                data: 'ColumnCount'
+              }, {
+                title: 'Number of Records',
+                data: 'RowCount'
+              }],
+              //dom: 'Rt',
+              paging: true,
+              pagingType: "full_numbers",
+              colReorder: {
+                order: [0, 2, 1],
+                fixedColumnsRight: 1
+              },
+              responsive: true
+            };
             this.dtColumnsReorderOptionsSAP = {
               ajax: 'fake-data/datatable-sap.json',
               columns: [{
@@ -3561,7 +3639,7 @@
         selectors: [["app-data-source"]],
         decls: 76,
         vars: 10,
-        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "feather", "icon-cloud-off"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter", "ngClass", "click"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], ["class", "row", 4, "ngIf"], [1, "col-lg-3", "col-md-6", "col-sm-12", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "col-4"], ["src", "assets/images/dbicons/sql.png", "alt", "", 2, "float", "right"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["cardClass", "support-bar overflow-hidden", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], ["src", "assets/images/dbicons/sap.png", "alt", "", 2, "float", "right"], ["src", "assets/images/dbicons/postgres.png", "alt", "", 2, "float", "right"], ["class", "col-md-12", 4, "ngIf"], ["cardTitle", "QPay Table Stats", "cardClass", "card-datatable", 3, "options"], [1, "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["cardTitle", "QString Table Stats", "cardClass", "card-datatable", 3, "options"], ["cardTitle", "SAP Table Stats", "cardClass", "card-datatable", 3, "options"]],
+        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "fa", "fa-database", "icon-sidebar"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "feather", "icon-cloud-off"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-file"], [1, "col-lg-4", "col-md-6"], ["footerClass", "bg-c-yellow", 3, "hidHeader", "isCardFooter", "ngClass", "click"], [1, "row", "align-items-center"], [1, "col-8"], [1, "text-c-yellow"], [1, "col-4", "text-right"], [1, "fas", "fa-database", "m-r-1", "f-28"], [1, "app-card-footer"], [1, "col-9"], [1, "text-white", "m-b-0"], ["footerClass", "bg-c-green", 3, "hidHeader", "isCardFooter"], [1, "text-c-green"], [1, "fas", "fa-table", "m-r-1", "f-28"], ["footerClass", "bg-c-red", 3, "hidHeader", "isCardFooter"], [1, "text-c-red"], [1, "feather", "icon-file-text", "f-28"], ["class", "row", 4, "ngIf"], [1, "col-lg-3", "col-md-6", "col-sm-12", 3, "click"], ["cardClass", "support-bar", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], [1, "p-20", "pb-0", 2, "min-height", "110px"], [1, "m-0"], [1, "col-4"], ["src", "assets/images/dbicons/sql.png", "alt", "", 2, "float", "right"], [1, "text-c-blue"], [1, "col"], [1, "m-0", "text-white"], ["cardClass", "support-bar overflow-hidden", "blockClass", "p-0", "footerClass", "bg-success text-white", 3, "hidHeader", "isCardFooter", "ngClass"], ["src", "assets/images/dbicons/sap.png", "alt", "", 2, "float", "right"], ["src", "assets/images/dbicons/postgres.png", "alt", "", 2, "float", "right"], ["class", "col-md-12", 4, "ngIf"], ["cardTitle", "QPay Table Stats", "cardClass", "card-datatable", 3, "options"], [1, "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["cardTitle", "MinimumWages Table Stats", "cardClass", "card-datatable", 3, "options"], ["cardTitle", "SAP Table Stats", "cardClass", "card-datatable", 3, "options"]],
         template: function DataSourceComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
