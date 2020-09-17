@@ -439,7 +439,7 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/a-8644/code/DataProjectAthul-UI/src/styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! /Users/A-8538/my-code/DataProject-UI/src/styles.scss */"./src/styles.scss");
 
 
 /***/ })

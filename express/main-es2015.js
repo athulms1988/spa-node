@@ -4601,7 +4601,7 @@ class MicroservicesComponent {
         this.showData = false;
         this.selectedUser = {};
         this.badgeClass = '';
-        this.url = "https://app.powerbi.com/reportEmbed?reportId=90e03e6c-fa6d-4d80-ba57-6b4ae1484c4f&autoAuth=true&ctid=d086aad7-5dab-4ec4-8234-a0c94fe179c4&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLXdlc3QtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D";
+        this.url = "https://app.powerbi.com/reportEmbed?reportId=ac709cd8-ce1b-4f80-9186-e89ecbbcf535&autoAuth=true&ctid=d086aad7-5dab-4ec4-8234-a0c94fe179c4&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLXdlc3QtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D";
         this.datamarts = ['Employee', 'Finance', 'Company'];
         this.selectedDatamart = this.datamarts[0];
         this.employeeData = [
