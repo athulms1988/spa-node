@@ -3388,7 +3388,7 @@ class DataStreamersComponent {
         this.dtColumnsReorderOptionsCompany = {};
         this.dtColumnsReorderOptionsFinance = {};
         this.streamId = 0;
-        this.webUrl = "http://103.210.72.54:9021/";
+        this.webUrl = "http://103.210.74.188:9021/clusters";
         this.areaChartData1 = _chart_area_chart_data_1__WEBPACK_IMPORTED_MODULE_1__["AreaChartData"].areaChart1;
         this.barChartData1 = _chart_bar_chart_data_1__WEBPACK_IMPORTED_MODULE_2__["BarChartData"].barChart1;
     }
