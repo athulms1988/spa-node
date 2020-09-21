@@ -6988,7 +6988,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "app-alert", 81);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Employee hired successfully!");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Onboarding initiated!");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -7030,7 +7030,7 @@
             return ctx_r23.hire();
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Hire");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Onboard");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
