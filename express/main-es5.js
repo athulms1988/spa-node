@@ -7576,7 +7576,11 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidHeader", true);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx_r17.selectedUser.profileImageUrl, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx_r17.selectedUser.name);
 
@@ -7594,7 +7598,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction5"](35, _c0, ctx_r17.selectedUser.hiringStatus == "Available To Hire", ctx_r17.selectedUser.hiringStatus == "Ready To Onboard", ctx_r17.selectedUser.hiringStatus == "Available To Rehire", ctx_r17.selectedUser.hiringStatus == "Not Available To Hire", ctx_r17.selectedUser.hiringStatus == "Blacklisted"));
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction5"](36, _c0, ctx_r17.selectedUser.hiringStatus == "Available To Hire", ctx_r17.selectedUser.hiringStatus == "Ready To Onboard", ctx_r17.selectedUser.hiringStatus == "Available To Rehire", ctx_r17.selectedUser.hiringStatus == "Not Available To Hire", ctx_r17.selectedUser.hiringStatus == "Blacklisted"));
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
@@ -7764,7 +7768,7 @@
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, MicroservicesComponent_ng_template_43_ng_template_6_div_17_Template, 150, 41, "div", 45);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, MicroservicesComponent_ng_template_43_ng_template_6_div_17_Template, 150, 42, "div", 45);
         }
 
         if (rf & 2) {
@@ -8774,7 +8778,7 @@
           this.datamarts = ['Employee', 'Finance', 'Company'];
           this.selectedDatamart = this.datamarts[0];
           this.employeeData = [{
-            "name": "Lois Walker",
+            "name": "Monika",
             "age": "33",
             "dateOfBirth": "03/29/1987",
             "panCard": "BSJK4367O",
@@ -8796,8 +8800,8 @@
             "contractExpiry": "2",
             "documentsVerified": "yes",
             "isActive": "yes",
-            "mobile": "9945673489",
-            "email": "lois.walker@hotmail.com",
+            "mobile": "9675098605",
+            "email": "monikasharmagame@gmail.com",
             "currentCompany": "SAMSUNG INDIA ELECTRONICS PRIVATE LIMITED",
             "currentPosition": "Software Engineer",
             "quessEmployee": "yes",
@@ -8807,9 +8811,10 @@
             "PF": "PYBOM006023703421010495",
             "UAN": "123000000000",
             "ESIC": "5603269771",
-            "remark": "documents verified"
+            "remark": "documents verified",
+            "profileImageUrl": "https://getharbour-live1.s3.ap-south-1.amazonaws.com/1571214083_image-1187791806.jpg"
           }, {
-            "name": "Brenda Robinson",
+            "name": "Atul Kumar Pandey",
             "age": "35",
             "dateOfBirth": "07/31/1998",
             "panCard": "BSJK43672",
@@ -8831,8 +8836,8 @@
             "contractExpiry": "5",
             "documentsVerified": "no",
             "isActive": "yes",
-            "mobile": "9945223489",
-            "email": "brenda.robinson@gmail.com",
+            "mobile": "8887524049",
+            "email": "pandeyatul191992@gmail.com",
             "currentCompany": "Aditya group",
             "currentPosition": "Security",
             "quessEmployee": "yes",
@@ -8842,9 +8847,10 @@
             "PF": "PYBOM005683703421010695",
             "UAN": "100000000000",
             "ESIC": "5603369771",
-            "remark": "documents verified"
+            "remark": "documents verified",
+            "profileImageUrl": "https://getharbour-live1.s3.ap-south-1.amazonaws.com/1570879197_image-1371260819.jpg"
           }, {
-            "name": "Joe Robinson",
+            "name": "Sharanappa Siddappa Bishmannanavar",
             "age": "34",
             "dateOfBirth": "06/16/1986",
             "panCard": "BSJK45679",
@@ -8866,8 +8872,8 @@
             "contractExpiry": "",
             "documentsVerified": "yes",
             "isActive": "no",
-            "mobile": "9345673459",
-            "email": "joe.robinson@gmail.com",
+            "mobile": "8494933724",
+            "email": "kr.prakash33@gmail.com",
             "currentCompany": "Jindal group",
             "currentPosition": "CA",
             "quessEmployee": "no",
@@ -8877,9 +8883,10 @@
             "PF": "PYBOM006033703421010785",
             "UAN": "100000000000",
             "ESIC": "5603370771",
-            "remark": "documents verified"
+            "remark": "documents verified",
+            "profileImageUrl": "https://getharbour-live1.s3.ap-south-1.amazonaws.com/1533027708_image617203940.jpg"
           }, {
-            "name": "Diane Evans",
+            "name": "Rishi Raj",
             "age": "35",
             "dateOfBirth": "04/12/1990",
             "panCard": "BSJK4569K",
@@ -8901,8 +8908,8 @@
             "contractExpiry": "14",
             "documentsVerified": "yes",
             "isActive": "yes",
-            "mobile": "9145645689",
-            "email": "diane.evans@yahoo.com",
+            "mobile": "9572868806",
+            "email": "rishiraj373@gmail.com",
             "currentCompany": "Aditya group",
             "currentPosition": "Manager",
             "quessEmployee": "yes",
@@ -8912,9 +8919,10 @@
             "PF": "PYBOM006823703421010495",
             "UAN": "100000000000",
             "ESIC": "5603370881",
-            "remark": "documents verified"
+            "remark": "documents verified",
+            "profileImageUrl": "https://getharbour-live1.s3.ap-south-1.amazonaws.com/1572521640_image8902691431167406611.jpg"
           }, {
-            "name": "Benjamin Russel",
+            "name": "Annpurna",
             "age": "38",
             "dateOfBirth": "04/17/1992",
             "panCard": "BSJK4785P",
@@ -8936,8 +8944,8 @@
             "contractExpiry": "2",
             "documentsVerified": "yes",
             "isActive": "yes",
-            "mobile": "8945673459",
-            "email": "benjamin.russel@charter.com",
+            "mobile": "9718465948",
+            "email": "anapurnashrivastva@gmail.com",
             "currentCompany": "",
             "currentPosition": "",
             "quessEmployee": "no",
@@ -8947,9 +8955,10 @@
             "PF": "PYBOM006953703421010695",
             "UAN": "100000000000",
             "ESIC": "5605370771",
-            "remark": "documents verified"
+            "remark": "documents verified",
+            "profileImageUrl": "https://getharbour-live1.s3.ap-south-1.amazonaws.com/1507280994_profile_img_url.jpg"
           }, {
-            "name": "Patrick Bailey",
+            "name": "Neelam",
             "age": "25",
             "dateOfBirth": "09/27/1994",
             "panCard": "BSJK4785Q",
@@ -8971,8 +8980,8 @@
             "contractExpiry": "",
             "documentsVerified": "no",
             "isActive": "yes",
-            "mobile": "9795673482",
-            "email": "patrick.bailey@aol.com",
+            "mobile": "9610931993",
+            "email": "nkatewa210@gmail.com",
             "currentCompany": "",
             "currentPosition": "",
             "quessEmployee": "no",
@@ -8982,7 +8991,8 @@
             "PF": "-",
             "UAN": "-",
             "ESIC": "-",
-            "remark": "documents needs to be verified"
+            "remark": "documents needs to be verified",
+            "profileImageUrl": "https://getharbour-live1.s3.ap-south-1.amazonaws.com/1569160611_image2435094178282071866.jpg"
           }];
           this.companyData = [{
             'id': 0,
@@ -9252,7 +9262,7 @@
         selectors: [["app-microservices"]],
         decls: 48,
         vars: 1,
-        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "feather", "icon-file"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-cloud-off"], [1, "fa", "fa-database", "icon-sidebar"], ["cardClass", "tab-card", 3, "hidHeader"], [3, "tabChange"], ["title", "Dashboard", 1, "bg-light", "d-inline-block", "mr-2", "border", "border-primary"], ["ngbTabContent", ""], ["title", "Reports"], ["title", "Tools"], ["title", "Open API"], ["title", "Widgets"], [1, "d-flex"], ["ngbNav", "", "orientation", "vertical", 1, "nav-pills", "mr-2", "border-right", "border-top", "border-bottom", "rounded"], ["nav", "ngbNav"], ["ngbNavItem", "overview"], ["ngbNavLink", ""], ["ngbNavContent", ""], [2, "width", "100%", 3, "ngbNavOutlet"], ["width", "100%", "height", "700px", "frameBorder", "0", "allowFullScreen", "true", 3, "src"], ["ngbNavItem", "minimumWages"], ["ngbNavLink", "", 3, "click"], ["class", "row p-10 m-10", 4, "ngIf"], [1, "row", "p-10", "m-10"], [1, "col-sm-11", "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["ngbNavItem", "rapidHire"], ["ngbNavItem", "salaryCalculator"], [1, "col-4"], [3, "formGroup", "ngSubmit"], [1, "row", "justify-content-start"], [2, "margin", "10px"], ["formControlName", "idControl", "id", "idControl", 1, "form-control"], [3, "value", 4, "ngFor", "ngForOf"], ["type", "text", "formControlName", "idNumberControl", "id", "idNumber", "placeholder", "Enter you id number", "required", "", 1, "form-control"], ["type", "submit", 1, "btn", "btn-primary", 2, "margin", "10px"], ["id", "details", 4, "ngIf"], [3, "value"], ["id", "details"], ["cardClass", "user-card2 overflow-hidden", "blockclass", "text-center p-0", 3, "hidHeader"], [1, "col-sm-3", "user-profile-side"], [1, "p-20", "text-center"], [1, "m-b-25"], ["src", "assets/images/user/avatar-4.jpg", "alt", "User-Profile-Image", 1, "img-radius"], [1, "f-w-600"], [1, "badge", "p-10", "f-15", 3, "ngClass"], [1, "col-sm-6"], [1, "p-20"], [1, "m-b-30", "p-b-5", "b-b-default", "mr-2", "border-bottom", "f-w-600"], [1, "col-sm-4"], [1, "m-b-10", "f-w-600"], [1, "text-muted", "f-w-400"], ["href", "#", "target", "_top"], [1, "m-b-10", "f-w-600", "text-green"], ["aria-hidden", "true", 1, "fa", "fa-check-circle", 2, "color", "#4680ff"], [1, "m-b-20", "p-b-5", "mr-2", "border-bottom", "b-b-default", "f-w-600"], [1, "col-sm-3"], [1, "m-b-20", "p-b-5", "b-b-default", "mr-2", "border-bottom", "f-w-600"], [1, "col-12", "m-b-20"], [1, "row", "justify-content-center"], [1, "hei-150", "wid-150", "d-inline-block", "mr-2", "b-wid-4", "border", "border-primary", "rounded-circle"], [1, "m-t-45", "m-l-30", "d-inline-block"], [1, "m-l-50", "f-30", "f-w-600", "d-inline-block"], [1, "m-b-10"], ["readOnly", "true", 3, "rate", "max", "theme"], [1, "m-l-5"], [1, "form-group"], [1, "f-w-600", "mr-2", "border-bottom"], ["id", "companyListSelection", 1, "form-control", 3, "ngModel", "ngModelChange"], [3, "ngValue", 4, "ngFor", "ngForOf"], ["class", "p-10", 4, "ngIf"], [3, "ngValue"], [1, "p-10"], [1, "m-t-10"], [1, "btn", "btn-primary", 3, "click"], ["class", "m-t-10", 4, "ngIf"], ["type", "success", "dismiss", "true"], ["ngbNavItem", "aadhar"], ["ngbNavItem", "pan"], ["ngbNavItem", "bankAccount"], [1, "row", "m-20", "mr-2"], [1, "col-6"], [1, "row", "p-20", "border", "rounded"], ["href", "https://edlcmsuat.quesscorp.com/api/MinimumWages/CheckWages", "target", "_top"], ["href", "https://kyc-api.aadhaarkyc.io/api/v1/aadhaar/upload/qr", "target", "_top"], ["href", "https://kyc-api.aadhaarkyc.io/api/v1/pan/pan", "target", "_top"], ["href", "https://kyc-api.aadhaarkyc.io/api/v1/bank-verification/", "target", "_top"], [1, "row", "m-20", "p-5"], [1, "col-3"], ["cardClass", "user-card user-card-3 support-bar1", "footerClass", "bg-light", 3, "hidHeader", "isCardFooter"], [1, "text-center"], ["src", "assets/images/widget-icons/hr-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], [1, "mb-1", "mt-3", "f-w-400"], ["src", "assets/images/widget-icons/finance-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/hiring-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/support-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150", "hei-150"], ["src", "assets/images/widget-icons/customer-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/applications-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/vas-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150", "hei-150"]],
+        consts: [[1, "row"], [1, "col-md-12"], [1, "md-stepper"], [1, "md-step", "active"], [1, "md-step-circle"], [1, "feather", "icon-file"], [1, "md-step-title"], [1, "md-step-bar-left"], [1, "md-step-bar-right"], [1, "md-step", 3, "click"], [1, "fas", "fa-warehouse", "icon-droplet"], [1, "feather", "icon-cloud-off"], [1, "fa", "fa-database", "icon-sidebar"], ["cardClass", "tab-card", 3, "hidHeader"], [3, "tabChange"], ["title", "Dashboard", 1, "bg-light", "d-inline-block", "mr-2", "border", "border-primary"], ["ngbTabContent", ""], ["title", "Reports"], ["title", "Tools"], ["title", "Open API"], ["title", "Widgets"], [1, "d-flex"], ["ngbNav", "", "orientation", "vertical", 1, "nav-pills", "mr-2", "border-right", "border-top", "border-bottom", "rounded"], ["nav", "ngbNav"], ["ngbNavItem", "overview"], ["ngbNavLink", ""], ["ngbNavContent", ""], [2, "width", "100%", 3, "ngbNavOutlet"], ["width", "100%", "height", "700px", "frameBorder", "0", "allowFullScreen", "true", 3, "src"], ["ngbNavItem", "minimumWages"], ["ngbNavLink", "", 3, "click"], ["class", "row p-10 m-10", 4, "ngIf"], [1, "row", "p-10", "m-10"], [1, "col-sm-11", "table-responsive"], ["datatable", "", 1, "table", "table-striped", "table-bordered", "table-hover", 3, "dtOptions"], ["ngbNavItem", "rapidHire"], ["ngbNavItem", "salaryCalculator"], [1, "col-4"], [3, "formGroup", "ngSubmit"], [1, "row", "justify-content-start"], [2, "margin", "10px"], ["formControlName", "idControl", "id", "idControl", 1, "form-control"], [3, "value", 4, "ngFor", "ngForOf"], ["type", "text", "formControlName", "idNumberControl", "id", "idNumber", "placeholder", "Enter you id number", "required", "", 1, "form-control"], ["type", "submit", 1, "btn", "btn-primary", 2, "margin", "10px"], ["id", "details", 4, "ngIf"], [3, "value"], ["id", "details"], ["cardClass", "user-card2 overflow-hidden", "blockclass", "text-center p-0", 3, "hidHeader"], [1, "col-sm-3", "user-profile-side"], [1, "p-20", "text-center"], [1, "m-b-25"], ["height", "100", "width", "100", "alt", "User-Profile-Image", 1, "img-radius", 3, "src"], [1, "f-w-600"], [1, "badge", "p-10", "f-15", 3, "ngClass"], [1, "col-sm-6"], [1, "p-20"], [1, "m-b-30", "p-b-5", "b-b-default", "mr-2", "border-bottom", "f-w-600"], [1, "col-sm-4"], [1, "m-b-10", "f-w-600"], [1, "text-muted", "f-w-400"], ["href", "#", "target", "_top"], [1, "m-b-10", "f-w-600", "text-green"], ["aria-hidden", "true", 1, "fa", "fa-check-circle", 2, "color", "#4680ff"], [1, "m-b-20", "p-b-5", "mr-2", "border-bottom", "b-b-default", "f-w-600"], [1, "col-sm-3"], [1, "m-b-20", "p-b-5", "b-b-default", "mr-2", "border-bottom", "f-w-600"], [1, "col-12", "m-b-20"], [1, "row", "justify-content-center"], [1, "hei-150", "wid-150", "d-inline-block", "mr-2", "b-wid-4", "border", "border-primary", "rounded-circle"], [1, "m-t-45", "m-l-30", "d-inline-block"], [1, "m-l-50", "f-30", "f-w-600", "d-inline-block"], [1, "m-b-10"], ["readOnly", "true", 3, "rate", "max", "theme"], [1, "m-l-5"], [1, "form-group"], [1, "f-w-600", "mr-2", "border-bottom"], ["id", "companyListSelection", 1, "form-control", 3, "ngModel", "ngModelChange"], [3, "ngValue", 4, "ngFor", "ngForOf"], ["class", "p-10", 4, "ngIf"], [3, "ngValue"], [1, "p-10"], [1, "m-t-10"], [1, "btn", "btn-primary", 3, "click"], ["class", "m-t-10", 4, "ngIf"], ["type", "success", "dismiss", "true"], ["ngbNavItem", "aadhar"], ["ngbNavItem", "pan"], ["ngbNavItem", "bankAccount"], [1, "row", "m-20", "mr-2"], [1, "col-6"], [1, "row", "p-20", "border", "rounded"], ["href", "https://edlcmsuat.quesscorp.com/api/MinimumWages/CheckWages", "target", "_top"], ["href", "https://kyc-api.aadhaarkyc.io/api/v1/aadhaar/upload/qr", "target", "_top"], ["href", "https://kyc-api.aadhaarkyc.io/api/v1/pan/pan", "target", "_top"], ["href", "https://kyc-api.aadhaarkyc.io/api/v1/bank-verification/", "target", "_top"], [1, "row", "m-20", "p-5"], [1, "col-3"], ["cardClass", "user-card user-card-3 support-bar1", "footerClass", "bg-light", 3, "hidHeader", "isCardFooter"], [1, "text-center"], ["src", "assets/images/widget-icons/hr-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], [1, "mb-1", "mt-3", "f-w-400"], ["src", "assets/images/widget-icons/finance-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/hiring-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/support-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150", "hei-150"], ["src", "assets/images/widget-icons/customer-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/applications-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150"], ["src", "assets/images/widget-icons/vas-icon.png", "alt", "User image", 1, "img-radius", "img-fluid", "wid-150", "hei-150"]],
         template: function MicroservicesComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
