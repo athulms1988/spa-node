@@ -423,7 +423,7 @@ BarChartData.barChart1 = {
         type: 'bar',
     },
     title: {
-        text: 'Top Employees of 2020'
+        text: 'Top Employers of 2020'
     },
     plotOptions: {
         bar: {
@@ -441,11 +441,11 @@ BarChartData.barChart1 = {
         colors: ['transparent']
     },
     series: [{
-            name: 'No of Employees',
+            name: 'No of Employers',
             data: [5468, 3110, 1987, 1950, 1480]
         }],
     xaxis: {
-        categories: ['Reliance', 'Hindustan', 'IDBI', 'Samsung', 'One97'],
+        categories: ['Axis', 'Samsung', 'Reliance', 'Amazon', 'IDBI'],
     },
     fill: {
         opacity: 1
@@ -1301,24 +1301,24 @@ function DataMartComponent_div_146_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 43);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "app-card", 44);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "p", 45);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "Workforce management ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "New hiring");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "span", 46);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "has");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, " of");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "span", 47);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, " 26,163 ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, " 8,544 ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "span", 46);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " works under ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " happened under ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "span", 48);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "General Staffing");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "span", 46);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " as of ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " for");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "span");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "2020");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, " August 2020");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "app-apex-chart", 49);
@@ -5431,10 +5431,10 @@ class MicroservicesComponent {
                 "isActive": "yes",
                 "mobile": "9718465948",
                 "email": "anapurnashrivastva@gmail.com",
-                "currentCompany": "",
-                "currentPosition": "",
+                "currentCompany": "PHILIPS INDIA LIMITED",
+                "currentPosition": "ISD",
                 "quessEmployee": "no",
-                "subBusiness": "",
+                "subBusiness": "General Staffing",
                 "lastPay": "",
                 "hiringStatus": "Blacklisted",
                 "PF": "PYBOM006953703421010695",
